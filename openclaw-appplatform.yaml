@@ -37,6 +37,18 @@ services:
     instance_count: 1
     instance_size_slug: basic-xxs  # $5/mo - upgrade to basic-xs ($12) if needed
     
+    # Auto-initialize workspace on first boot
+    run_command: |
+      sh -c '
+        if [ ! -f /mnt/workspace/SOUL.md ]; then
+          echo "Initializing workspace from template..."
+          cd /mnt/workspace
+          wget -qO- https://github.com/gdr3941/eclipse-openclaw-template/archive/refs/heads/main.tar.gz | tar xz --strip-components=1
+          echo "Workspace initialized."
+        fi
+        exec openclaw gateway start --foreground
+      '
+    
     envs:
       # ═══════════════════════════════════════════════════
       # REQUIRED: Partner Credentials
