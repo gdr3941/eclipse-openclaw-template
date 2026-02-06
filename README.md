@@ -27,6 +27,9 @@ Base workspace configuration for Eclipse partners running OpenClaw.
 
 ## Deployment
 
+### Automated
+Use my local script for partner-deploy.sh
+
 ### Prerequisites
 1. DigitalOcean account with `doctl` CLI installed
 2. Partner's Telegram bot token (from @BotFather)
