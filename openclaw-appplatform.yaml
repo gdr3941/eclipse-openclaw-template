@@ -8,14 +8,18 @@
 # - Sensitive data redaction in logs
 # - Telegram DM restricted to single user
 #
-# Included skills:
-# - weather (bundled, no API key needed)
-# - clawhub (bundled, no API key needed)
-# - flight-tracker (included in workspace, optional API key)
-# - o365-calendar (included in workspace, requires Azure AD setup)
+# Included skills (in workspace):
+# - flight-tracker (live tracking, no API key needed)
+# - o365-calendar (requires Azure AD setup)
+# - sec-filing-watcher (SEC EDGAR alerts)
+# - arxiv-watcher (research paper search)
+#
+# Bundled skills (no setup):
+# - weather
+# - clawhub
 #
 # Usage:
-#   1. Copy this file for each partner: cp openclaw-appplatform.yaml openclaw-<name>.yaml
+#   1. Copy this file: cp openclaw-appplatform.yaml openclaw-<name>.yaml
 #   2. Replace all PARTNER_* placeholders
 #   3. Generate gateway token: openssl rand -hex 32
 #   4. Deploy: doctl apps create --spec openclaw-<name>.yaml
@@ -49,24 +53,17 @@ services:
       # ═══════════════════════════════════════════════════
       # SECURITY: Gateway Protection
       # ═══════════════════════════════════════════════════
-      # Unique token per instance - generate with: openssl rand -hex 32
       - key: OPENCLAW_GATEWAY_TOKEN
         value: "PARTNER_GATEWAY_TOKEN"
         type: SECRET
-      # Bind to loopback only (container-internal)
       - key: OPENCLAW_GATEWAY_BIND
         value: "loopback"
       
       # ═══════════════════════════════════════════════════
-      # SECURITY: Exec Restrictions
+      # SECURITY: Exec & Logging
       # ═══════════════════════════════════════════════════
-      # allowlist = only pre-approved commands run without asking
       - key: OPENCLAW_EXEC_SECURITY
         value: "allowlist"
-      
-      # ═══════════════════════════════════════════════════
-      # SECURITY: Logging
-      # ═══════════════════════════════════════════════════
       - key: OPENCLAW_LOG_REDACT_SENSITIVE
         value: "tools"
       
@@ -79,26 +76,6 @@ services:
         value: "PARTNER_TIMEZONE"
       - key: OPENCLAW_WORKSPACE
         value: "/mnt/workspace"
-      
-      # ═══════════════════════════════════════════════════
-      # SKILL: O365 Calendar (Optional)
-      # ═══════════════════════════════════════════════════
-      # Requires Azure AD app registration in partner's tenant
-      # See skills/o365-calendar/SKILL.md for setup instructions
-      # Leave blank if not using O365 calendar
-      - key: O365_CLIENT_ID
-        value: "PARTNER_O365_CLIENT_ID"
-      - key: O365_TENANT_ID
-        value: "PARTNER_O365_TENANT_ID"
-      
-      # ═══════════════════════════════════════════════════
-      # SKILL: Flight Tracker (Optional)
-      # ═══════════════════════════════════════════════════
-      # AviationStack API key for flight schedules
-      # Free tier: 100 requests/month at aviationstack.com
-      # Leave blank if not needed (live tracking still works)
-      - key: AVIATIONSTACK_API_KEY
-        value: ""
 
     # Persistent storage for workspace files
     volumes:
