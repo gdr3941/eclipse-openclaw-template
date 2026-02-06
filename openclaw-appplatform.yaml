@@ -76,6 +76,16 @@ services:
         value: "PARTNER_TIMEZONE"
       - key: OPENCLAW_WORKSPACE
         value: "/mnt/workspace"
+      
+      # ═══════════════════════════════════════════════════
+      # O365 Calendar Integration
+      # ═══════════════════════════════════════════════════
+      # Azure AD app registration required
+      # See skills/o365-calendar/SKILL.md for setup
+      - key: O365_CLIENT_ID
+        value: "PARTNER_O365_CLIENT_ID"
+      - key: O365_TENANT_ID
+        value: "PARTNER_O365_TENANT_ID"
 
     # Persistent storage for workspace files
     volumes:
