@@ -83,7 +83,7 @@ services:
       # AGENT: Model & Behavior
       # ═══════════════════════════════════════════════════
       - key: OPENCLAW_MODEL
-        value: "anthropic/claude-sonnet-4"
+        value: "anthropic/claude-opus-4-5"
       - key: TZ
         value: "PARTNER_TIMEZONE"
       - key: OPENCLAW_WORKSPACE
