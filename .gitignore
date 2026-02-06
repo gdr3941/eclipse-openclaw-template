@@ -1,0 +1,20 @@
+# Tokens and secrets
+token.json
+*.secret
+.env
+
+# Partner-specific config (don't commit filled templates)
+openclaw-*.yaml
+!openclaw-appplatform.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

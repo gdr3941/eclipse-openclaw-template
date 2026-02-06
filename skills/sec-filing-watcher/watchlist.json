@@ -1,0 +1,26 @@
+{
+  "tickers": [
+    "NVDA",
+    "AMD",
+    "INTC",
+    "AVGO",
+    "QCOM",
+    "MRVL",
+    "ARM",
+    "TSM",
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "CEG",
+    "VST",
+    "NRG",
+    "FSLR",
+    "RUN",
+    "NEE",
+    "QS",
+    "STEM",
+    "PLUG",
+    "SMR"
+  ],
+  "formTypes": ["10-K", "10-Q", "8-K", "4"]
+}

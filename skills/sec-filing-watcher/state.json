@@ -1,0 +1,5028 @@
+{
+  "seededTickers": [
+    "NVDA",
+    "AMD",
+    "INTC",
+    "AVGO",
+    "QCOM",
+    "MRVL",
+    "ARM",
+    "TSM",
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "CEG",
+    "VST",
+    "NRG",
+    "ENPH",
+    "SEDG",
+    "FSLR",
+    "RUN",
+    "NEE",
+    "QS",
+    "STEM",
+    "PLUG",
+    "BE",
+    "SMR"
+  ],
+  "filings": {
+    "0001045810-25-000023": {
+      "ticker": "NVDA",
+      "formType": "10-K",
+      "filedAt": "2025-02-26",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-24-000029": {
+      "ticker": "NVDA",
+      "formType": "10-K",
+      "filedAt": "2024-02-21",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-23-000017": {
+      "ticker": "NVDA",
+      "formType": "10-K",
+      "filedAt": "2023-02-24",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-22-000036": {
+      "ticker": "NVDA",
+      "formType": "10-K",
+      "filedAt": "2022-03-18",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-21-000010": {
+      "ticker": "NVDA",
+      "formType": "10-K",
+      "filedAt": "2021-02-26",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-20-000010": {
+      "ticker": "NVDA",
+      "formType": "10-K",
+      "filedAt": "2020-02-20",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-19-000023": {
+      "ticker": "NVDA",
+      "formType": "10-K",
+      "filedAt": "2019-02-21",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-18-000010": {
+      "ticker": "NVDA",
+      "formType": "10-K",
+      "filedAt": "2018-02-28",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-17-000027": {
+      "ticker": "NVDA",
+      "formType": "10-K",
+      "filedAt": "2017-03-01",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-16-000205": {
+      "ticker": "NVDA",
+      "formType": "10-K",
+      "filedAt": "2016-03-17",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-25-000230": {
+      "ticker": "NVDA",
+      "formType": "10-Q",
+      "filedAt": "2025-11-19",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-25-000209": {
+      "ticker": "NVDA",
+      "formType": "10-Q",
+      "filedAt": "2025-08-27",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-25-000116": {
+      "ticker": "NVDA",
+      "formType": "10-Q",
+      "filedAt": "2025-05-28",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-24-000316": {
+      "ticker": "NVDA",
+      "formType": "10-Q",
+      "filedAt": "2024-11-20",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-24-000264": {
+      "ticker": "NVDA",
+      "formType": "10-Q",
+      "filedAt": "2024-08-28",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-24-000124": {
+      "ticker": "NVDA",
+      "formType": "10-Q",
+      "filedAt": "2024-05-29",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-23-000227": {
+      "ticker": "NVDA",
+      "formType": "10-Q",
+      "filedAt": "2023-11-21",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-23-000175": {
+      "ticker": "NVDA",
+      "formType": "10-Q",
+      "filedAt": "2023-08-28",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-23-000093": {
+      "ticker": "NVDA",
+      "formType": "10-Q",
+      "filedAt": "2023-05-26",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-22-000166": {
+      "ticker": "NVDA",
+      "formType": "10-Q",
+      "filedAt": "2022-11-18",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-26-000003": {
+      "ticker": "NVDA",
+      "formType": "8-K",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-25-000228": {
+      "ticker": "NVDA",
+      "formType": "8-K",
+      "filedAt": "2025-11-19",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-25-000207": {
+      "ticker": "NVDA",
+      "formType": "8-K",
+      "filedAt": "2025-08-27",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-25-000197": {
+      "ticker": "NVDA",
+      "formType": "8-K",
+      "filedAt": "2025-08-05",
+      "processedAt": "2026-02-04T03:40:48.104Z"
+    },
+    "0001045810-25-000179": {
+      "ticker": "NVDA",
+      "formType": "8-K",
+      "filedAt": "2025-07-01",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001045810-25-000115": {
+      "ticker": "NVDA",
+      "formType": "8-K",
+      "filedAt": "2025-05-28",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001045810-25-000082": {
+      "ticker": "NVDA",
+      "formType": "8-K",
+      "filedAt": "2025-04-15",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001045810-25-000039": {
+      "ticker": "NVDA",
+      "formType": "8-K",
+      "filedAt": "2025-03-07",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001045810-25-000021": {
+      "ticker": "NVDA",
+      "formType": "8-K",
+      "filedAt": "2025-02-26",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001045810-25-000007": {
+      "ticker": "NVDA",
+      "formType": "8-K",
+      "filedAt": "2025-01-17",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001636665-26-000002": {
+      "ticker": "NVDA",
+      "formType": "4",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001347842-26-000004": {
+      "ticker": "NVDA",
+      "formType": "4",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001588670-26-000002": {
+      "ticker": "NVDA",
+      "formType": "4",
+      "filedAt": "2026-01-15",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001347842-26-000002": {
+      "ticker": "NVDA",
+      "formType": "4",
+      "filedAt": "2026-01-09",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001526111-26-000002": {
+      "ticker": "NVDA",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001199039-25-000015": {
+      "ticker": "NVDA",
+      "formType": "4",
+      "filedAt": "2025-12-22",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001526111-25-000011": {
+      "ticker": "NVDA",
+      "formType": "4",
+      "filedAt": "2025-12-22",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001588670-25-000017": {
+      "ticker": "NVDA",
+      "formType": "4",
+      "filedAt": "2025-12-19",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001197649-25-000061": {
+      "ticker": "NVDA",
+      "formType": "4",
+      "filedAt": "2025-12-19",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0001197650-25-000009": {
+      "ticker": "NVDA",
+      "formType": "4",
+      "filedAt": "2025-12-17",
+      "processedAt": "2026-02-04T03:40:48.105Z"
+    },
+    "0000002488-25-000012": {
+      "ticker": "AMD",
+      "formType": "10-K",
+      "filedAt": "2025-02-05",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-24-000012": {
+      "ticker": "AMD",
+      "formType": "10-K",
+      "filedAt": "2024-01-31",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-23-000047": {
+      "ticker": "AMD",
+      "formType": "10-K",
+      "filedAt": "2023-02-27",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-22-000016": {
+      "ticker": "AMD",
+      "formType": "10-K",
+      "filedAt": "2022-02-03",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0001628280-21-001185": {
+      "ticker": "AMD",
+      "formType": "10-K",
+      "filedAt": "2021-01-29",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-20-000008": {
+      "ticker": "AMD",
+      "formType": "10-K",
+      "filedAt": "2020-02-04",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-19-000011": {
+      "ticker": "AMD",
+      "formType": "10-K",
+      "filedAt": "2019-02-08",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-18-000042": {
+      "ticker": "AMD",
+      "formType": "10-K",
+      "filedAt": "2018-02-27",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-17-000043": {
+      "ticker": "AMD",
+      "formType": "10-K",
+      "filedAt": "2017-02-21",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-16-000111": {
+      "ticker": "AMD",
+      "formType": "10-K",
+      "filedAt": "2016-02-18",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000166": {
+      "ticker": "AMD",
+      "formType": "10-Q",
+      "filedAt": "2025-11-05",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000108": {
+      "ticker": "AMD",
+      "formType": "10-Q",
+      "filedAt": "2025-08-06",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000047": {
+      "ticker": "AMD",
+      "formType": "10-Q",
+      "filedAt": "2025-05-07",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-24-000163": {
+      "ticker": "AMD",
+      "formType": "10-Q",
+      "filedAt": "2024-10-30",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-24-000123": {
+      "ticker": "AMD",
+      "formType": "10-Q",
+      "filedAt": "2024-07-31",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-24-000056": {
+      "ticker": "AMD",
+      "formType": "10-Q",
+      "filedAt": "2024-05-01",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-23-000195": {
+      "ticker": "AMD",
+      "formType": "10-Q",
+      "filedAt": "2023-11-01",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-23-000139": {
+      "ticker": "AMD",
+      "formType": "10-Q",
+      "filedAt": "2023-08-02",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-23-000076": {
+      "ticker": "AMD",
+      "formType": "10-Q",
+      "filedAt": "2023-05-03",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-22-000170": {
+      "ticker": "AMD",
+      "formType": "10-Q",
+      "filedAt": "2022-11-02",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-26-000014": {
+      "ticker": "AMD",
+      "formType": "8-K",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-26-000002": {
+      "ticker": "AMD",
+      "formType": "8-K",
+      "filedAt": "2026-01-20",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000182": {
+      "ticker": "AMD",
+      "formType": "8-K",
+      "filedAt": "2025-12-15",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000163": {
+      "ticker": "AMD",
+      "formType": "8-K",
+      "filedAt": "2025-11-04",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0001193125-25-250803": {
+      "ticker": "AMD",
+      "formType": "8-K",
+      "filedAt": "2025-10-27",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0001193125-25-230895": {
+      "ticker": "AMD",
+      "formType": "8-K",
+      "filedAt": "2025-10-06",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000147": {
+      "ticker": "AMD",
+      "formType": "8-K",
+      "filedAt": "2025-08-25",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000106": {
+      "ticker": "AMD",
+      "formType": "8-K",
+      "filedAt": "2025-08-05",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000099": {
+      "ticker": "AMD",
+      "formType": "8-K",
+      "filedAt": "2025-07-02",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000089": {
+      "ticker": "AMD",
+      "formType": "8-K/A",
+      "filedAt": "2025-06-03",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-26-000010": {
+      "ticker": "AMD",
+      "formType": "4",
+      "filedAt": "2026-01-21",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-26-000006": {
+      "ticker": "AMD",
+      "formType": "4",
+      "filedAt": "2026-01-20",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-26-000004": {
+      "ticker": "AMD",
+      "formType": "4",
+      "filedAt": "2026-01-20",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000179": {
+      "ticker": "AMD",
+      "formType": "4",
+      "filedAt": "2025-12-12",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0001768248-25-000004": {
+      "ticker": "AMD",
+      "formType": "4",
+      "filedAt": "2025-12-08",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000177": {
+      "ticker": "AMD",
+      "formType": "4",
+      "filedAt": "2025-12-04",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000175": {
+      "ticker": "AMD",
+      "formType": "4",
+      "filedAt": "2025-11-28",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000173": {
+      "ticker": "AMD",
+      "formType": "4",
+      "filedAt": "2025-11-26",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000171": {
+      "ticker": "AMD",
+      "formType": "4",
+      "filedAt": "2025-11-21",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000002488-25-000168": {
+      "ticker": "AMD",
+      "formType": "4",
+      "filedAt": "2025-11-18",
+      "processedAt": "2026-02-04T03:40:48.783Z"
+    },
+    "0000050863-26-000011": {
+      "ticker": "INTC",
+      "formType": "10-K",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000009": {
+      "ticker": "INTC",
+      "formType": "10-K",
+      "filedAt": "2025-01-31",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-24-000010": {
+      "ticker": "INTC",
+      "formType": "10-K",
+      "filedAt": "2024-01-26",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-23-000006": {
+      "ticker": "INTC",
+      "formType": "10-K",
+      "filedAt": "2023-01-27",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-22-000007": {
+      "ticker": "INTC",
+      "formType": "10-K",
+      "filedAt": "2022-01-27",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-21-000010": {
+      "ticker": "INTC",
+      "formType": "10-K",
+      "filedAt": "2021-01-22",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-20-000011": {
+      "ticker": "INTC",
+      "formType": "10-K",
+      "filedAt": "2020-01-24",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-19-000007": {
+      "ticker": "INTC",
+      "formType": "10-K",
+      "filedAt": "2019-02-01",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-18-000007": {
+      "ticker": "INTC",
+      "formType": "10-K",
+      "filedAt": "2018-02-16",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-17-000012": {
+      "ticker": "INTC",
+      "formType": "10-K",
+      "filedAt": "2017-02-17",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000179": {
+      "ticker": "INTC",
+      "formType": "10-Q",
+      "filedAt": "2025-11-06",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000109": {
+      "ticker": "INTC",
+      "formType": "10-Q",
+      "filedAt": "2025-07-24",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000074": {
+      "ticker": "INTC",
+      "formType": "10-Q",
+      "filedAt": "2025-04-25",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-24-000149": {
+      "ticker": "INTC",
+      "formType": "10-Q",
+      "filedAt": "2024-11-01",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-24-000124": {
+      "ticker": "INTC",
+      "formType": "10-Q",
+      "filedAt": "2024-08-02",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-24-000076": {
+      "ticker": "INTC",
+      "formType": "10-Q",
+      "filedAt": "2024-04-26",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-23-000103": {
+      "ticker": "INTC",
+      "formType": "10-Q",
+      "filedAt": "2023-10-27",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-23-000069": {
+      "ticker": "INTC",
+      "formType": "10-Q",
+      "filedAt": "2023-07-28",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-23-000028": {
+      "ticker": "INTC",
+      "formType": "10-Q",
+      "filedAt": "2023-04-28",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-22-000038": {
+      "ticker": "INTC",
+      "formType": "10-Q",
+      "filedAt": "2022-10-28",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-26-000031": {
+      "ticker": "INTC",
+      "formType": "8-K",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-26-000009": {
+      "ticker": "INTC",
+      "formType": "8-K",
+      "filedAt": "2026-01-22",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000204": {
+      "ticker": "INTC",
+      "formType": "8-K",
+      "filedAt": "2025-12-29",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000194": {
+      "ticker": "INTC",
+      "formType": "8-K",
+      "filedAt": "2025-11-12",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000169": {
+      "ticker": "INTC",
+      "formType": "8-K",
+      "filedAt": "2025-10-23",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000159": {
+      "ticker": "INTC",
+      "formType": "8-K",
+      "filedAt": "2025-09-29",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000155": {
+      "ticker": "INTC",
+      "formType": "8-K",
+      "filedAt": "2025-09-18",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000153": {
+      "ticker": "INTC",
+      "formType": "8-K",
+      "filedAt": "2025-09-15",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000149": {
+      "ticker": "INTC",
+      "formType": "8-K",
+      "filedAt": "2025-09-08",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000147": {
+      "ticker": "INTC",
+      "formType": "8-K",
+      "filedAt": "2025-09-05",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-26-000037": {
+      "ticker": "INTC",
+      "formType": "4",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-26-000036": {
+      "ticker": "INTC",
+      "formType": "4",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-26-000035": {
+      "ticker": "INTC",
+      "formType": "4",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-26-000034": {
+      "ticker": "INTC",
+      "formType": "4",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-26-000033": {
+      "ticker": "INTC",
+      "formType": "4",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-26-000032": {
+      "ticker": "INTC",
+      "formType": "4",
+      "filedAt": "2026-01-27",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-26-000027": {
+      "ticker": "INTC",
+      "formType": "424B7",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000200": {
+      "ticker": "INTC",
+      "formType": "4",
+      "filedAt": "2025-12-03",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000145": {
+      "ticker": "INTC",
+      "formType": "424B7",
+      "filedAt": "2025-09-05",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0000050863-25-000137": {
+      "ticker": "INTC",
+      "formType": "4",
+      "filedAt": "2025-09-04",
+      "processedAt": "2026-02-04T03:40:50.419Z"
+    },
+    "0001730168-25-000121": {
+      "ticker": "AVGO",
+      "formType": "10-K",
+      "filedAt": "2025-12-18",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-24-000139": {
+      "ticker": "AVGO",
+      "formType": "10-K",
+      "filedAt": "2024-12-20",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-23-000096": {
+      "ticker": "AVGO",
+      "formType": "10-K",
+      "filedAt": "2023-12-14",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-22-000118": {
+      "ticker": "AVGO",
+      "formType": "10-K",
+      "filedAt": "2022-12-16",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-21-000153": {
+      "ticker": "AVGO",
+      "formType": "10-K",
+      "filedAt": "2021-12-17",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-20-000226": {
+      "ticker": "AVGO",
+      "formType": "10-K",
+      "filedAt": "2020-12-18",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-19-000144": {
+      "ticker": "AVGO",
+      "formType": "10-K",
+      "filedAt": "2019-12-20",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-18-000084": {
+      "ticker": "AVGO",
+      "formType": "10-K",
+      "filedAt": "2018-12-21",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000098": {
+      "ticker": "AVGO",
+      "formType": "10-Q",
+      "filedAt": "2025-09-10",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000064": {
+      "ticker": "AVGO",
+      "formType": "10-Q",
+      "filedAt": "2025-06-11",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000021": {
+      "ticker": "AVGO",
+      "formType": "10-Q",
+      "filedAt": "2025-03-12",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-24-000099": {
+      "ticker": "AVGO",
+      "formType": "10-Q",
+      "filedAt": "2024-09-11",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-24-000080": {
+      "ticker": "AVGO",
+      "formType": "10-Q",
+      "filedAt": "2024-06-13",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-24-000023": {
+      "ticker": "AVGO",
+      "formType": "10-Q",
+      "filedAt": "2024-03-14",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-23-000077": {
+      "ticker": "AVGO",
+      "formType": "10-Q",
+      "filedAt": "2023-09-06",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-23-000064": {
+      "ticker": "AVGO",
+      "formType": "10-Q",
+      "filedAt": "2023-06-07",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-23-000008": {
+      "ticker": "AVGO",
+      "formType": "10-Q",
+      "filedAt": "2023-03-08",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-22-000094": {
+      "ticker": "AVGO",
+      "formType": "10-Q",
+      "filedAt": "2022-09-08",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001193125-26-011731": {
+      "ticker": "AVGO",
+      "formType": "8-K",
+      "filedAt": "2026-01-13",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000116": {
+      "ticker": "AVGO",
+      "formType": "8-K",
+      "filedAt": "2025-12-11",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001193125-25-223202": {
+      "ticker": "AVGO",
+      "formType": "8-K",
+      "filedAt": "2025-09-29",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001193125-25-200108": {
+      "ticker": "AVGO",
+      "formType": "8-K",
+      "filedAt": "2025-09-10",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001193125-25-199281": {
+      "ticker": "AVGO",
+      "formType": "8-K",
+      "filedAt": "2025-09-09",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000094": {
+      "ticker": "AVGO",
+      "formType": "8-K",
+      "filedAt": "2025-09-04",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001193125-25-158202": {
+      "ticker": "AVGO",
+      "formType": "8-K",
+      "filedAt": "2025-07-11",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000061": {
+      "ticker": "AVGO",
+      "formType": "8-K",
+      "filedAt": "2025-06-05",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000037": {
+      "ticker": "AVGO",
+      "formType": "8-K",
+      "filedAt": "2025-04-22",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000009": {
+      "ticker": "AVGO",
+      "formType": "8-K",
+      "filedAt": "2025-03-06",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-26-000004": {
+      "ticker": "AVGO",
+      "formType": "4",
+      "filedAt": "2026-01-08",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001627720-26-000002": {
+      "ticker": "AVGO",
+      "formType": "4",
+      "filedAt": "2026-01-08",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001193125-26-007683": {
+      "ticker": "AVGO",
+      "formType": "424B2",
+      "filedAt": "2026-01-08",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001193125-26-003525": {
+      "ticker": "AVGO",
+      "formType": "424B5",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-26-000002": {
+      "ticker": "AVGO",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000132": {
+      "ticker": "AVGO",
+      "formType": "4",
+      "filedAt": "2025-12-30",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000130": {
+      "ticker": "AVGO",
+      "formType": "4",
+      "filedAt": "2025-12-29",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001432602-25-000006": {
+      "ticker": "AVGO",
+      "formType": "4",
+      "filedAt": "2025-12-22",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001211588-25-000005": {
+      "ticker": "AVGO",
+      "formType": "4",
+      "filedAt": "2025-12-22",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0001730168-25-000127": {
+      "ticker": "AVGO",
+      "formType": "4",
+      "filedAt": "2025-12-19",
+      "processedAt": "2026-02-04T03:40:51.924Z"
+    },
+    "0000804328-25-000085": {
+      "ticker": "QCOM",
+      "formType": "10-K",
+      "filedAt": "2025-11-05",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-24-000075": {
+      "ticker": "QCOM",
+      "formType": "10-K",
+      "filedAt": "2024-11-06",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-23-000055": {
+      "ticker": "QCOM",
+      "formType": "10-K",
+      "filedAt": "2023-11-01",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-22-000021": {
+      "ticker": "QCOM",
+      "formType": "10-K",
+      "filedAt": "2022-11-02",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0001728949-21-000076": {
+      "ticker": "QCOM",
+      "formType": "10-K",
+      "filedAt": "2021-11-03",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0001728949-20-000067": {
+      "ticker": "QCOM",
+      "formType": "10-K",
+      "filedAt": "2020-11-04",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0001728949-19-000072": {
+      "ticker": "QCOM",
+      "formType": "10-K",
+      "filedAt": "2019-11-06",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0001728949-18-000095": {
+      "ticker": "QCOM",
+      "formType": "10-K",
+      "filedAt": "2018-11-07",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0001234452-17-000190": {
+      "ticker": "QCOM",
+      "formType": "10-K",
+      "filedAt": "2017-11-01",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0001234452-16-000552": {
+      "ticker": "QCOM",
+      "formType": "10-K",
+      "filedAt": "2016-11-02",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-25-000045": {
+      "ticker": "QCOM",
+      "formType": "10-Q",
+      "filedAt": "2025-07-30",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-25-000031": {
+      "ticker": "QCOM",
+      "formType": "10-Q",
+      "filedAt": "2025-04-30",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-25-000011": {
+      "ticker": "QCOM",
+      "formType": "10-Q",
+      "filedAt": "2025-02-05",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-24-000056": {
+      "ticker": "QCOM",
+      "formType": "10-Q",
+      "filedAt": "2024-07-31",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-24-000039": {
+      "ticker": "QCOM",
+      "formType": "10-Q",
+      "filedAt": "2024-05-01",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-24-000017": {
+      "ticker": "QCOM",
+      "formType": "10-Q",
+      "filedAt": "2024-01-31",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-23-000043": {
+      "ticker": "QCOM",
+      "formType": "10-Q",
+      "filedAt": "2023-08-02",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-23-000023": {
+      "ticker": "QCOM",
+      "formType": "10-Q",
+      "filedAt": "2023-05-03",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-23-000006": {
+      "ticker": "QCOM",
+      "formType": "10-Q",
+      "filedAt": "2023-02-02",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0001728949-22-000040": {
+      "ticker": "QCOM",
+      "formType": "10-Q",
+      "filedAt": "2022-07-27",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-26-000008": {
+      "ticker": "QCOM",
+      "formType": "8-K",
+      "filedAt": "2026-01-16",
+      "processedAt": "2026-02-04T03:40:52.445Z"
+    },
+    "0000804328-25-000098": {
+      "ticker": "QCOM",
+      "formType": "8-K",
+      "filedAt": "2025-12-16",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000096": {
+      "ticker": "QCOM",
+      "formType": "8-K",
+      "filedAt": "2025-12-10",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000084": {
+      "ticker": "QCOM",
+      "formType": "8-K",
+      "filedAt": "2025-11-05",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000054": {
+      "ticker": "QCOM",
+      "formType": "8-K",
+      "filedAt": "2025-09-02",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000049": {
+      "ticker": "QCOM",
+      "formType": "8-K",
+      "filedAt": "2025-08-25",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000044": {
+      "ticker": "QCOM",
+      "formType": "8-K",
+      "filedAt": "2025-07-30",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0001104659-25-057814": {
+      "ticker": "QCOM",
+      "formType": "8-K",
+      "filedAt": "2025-06-09",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0001104659-25-051981": {
+      "ticker": "QCOM",
+      "formType": "8-K",
+      "filedAt": "2025-05-22",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000034": {
+      "ticker": "QCOM",
+      "formType": "8-K",
+      "filedAt": "2025-05-13",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-26-000005": {
+      "ticker": "QCOM",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-26-000004": {
+      "ticker": "QCOM",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-26-000003": {
+      "ticker": "QCOM",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-26-000002": {
+      "ticker": "QCOM",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-26-000001": {
+      "ticker": "QCOM",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000109": {
+      "ticker": "QCOM",
+      "formType": "4",
+      "filedAt": "2025-12-19",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000104": {
+      "ticker": "QCOM",
+      "formType": "4",
+      "filedAt": "2025-12-17",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000103": {
+      "ticker": "QCOM",
+      "formType": "4",
+      "filedAt": "2025-12-17",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000102": {
+      "ticker": "QCOM",
+      "formType": "4",
+      "filedAt": "2025-12-16",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0000804328-25-000101": {
+      "ticker": "QCOM",
+      "formType": "4",
+      "filedAt": "2025-12-16",
+      "processedAt": "2026-02-04T03:40:52.446Z"
+    },
+    "0001835632-25-000057": {
+      "ticker": "MRVL",
+      "formType": "10-K",
+      "filedAt": "2025-03-12",
+      "processedAt": "2026-02-04T03:40:53.010Z"
+    },
+    "0001835632-24-000009": {
+      "ticker": "MRVL",
+      "formType": "10-K",
+      "filedAt": "2024-03-13",
+      "processedAt": "2026-02-04T03:40:53.010Z"
+    },
+    "0001835632-23-000013": {
+      "ticker": "MRVL",
+      "formType": "10-K",
+      "filedAt": "2023-03-09",
+      "processedAt": "2026-02-04T03:40:53.010Z"
+    },
+    "0001835632-22-000016": {
+      "ticker": "MRVL",
+      "formType": "10-K",
+      "filedAt": "2022-03-10",
+      "processedAt": "2026-02-04T03:40:53.010Z"
+    },
+    "0001835632-25-000197": {
+      "ticker": "MRVL",
+      "formType": "10-Q",
+      "filedAt": "2025-12-03",
+      "processedAt": "2026-02-04T03:40:53.010Z"
+    },
+    "0001835632-25-000189": {
+      "ticker": "MRVL",
+      "formType": "10-Q",
+      "filedAt": "2025-08-29",
+      "processedAt": "2026-02-04T03:40:53.010Z"
+    },
+    "0001835632-25-000117": {
+      "ticker": "MRVL",
+      "formType": "10-Q",
+      "filedAt": "2025-05-30",
+      "processedAt": "2026-02-04T03:40:53.010Z"
+    },
+    "0001835632-24-000200": {
+      "ticker": "MRVL",
+      "formType": "10-Q",
+      "filedAt": "2024-12-04",
+      "processedAt": "2026-02-04T03:40:53.010Z"
+    },
+    "0001835632-24-000142": {
+      "ticker": "MRVL",
+      "formType": "10-Q",
+      "filedAt": "2024-08-30",
+      "processedAt": "2026-02-04T03:40:53.010Z"
+    },
+    "0001835632-24-000063": {
+      "ticker": "MRVL",
+      "formType": "10-Q",
+      "filedAt": "2024-05-31",
+      "processedAt": "2026-02-04T03:40:53.010Z"
+    },
+    "0001835632-23-000046": {
+      "ticker": "MRVL",
+      "formType": "10-Q",
+      "filedAt": "2023-12-01",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001835632-23-000038": {
+      "ticker": "MRVL",
+      "formType": "10-Q",
+      "filedAt": "2023-08-25",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001835632-23-000029": {
+      "ticker": "MRVL",
+      "formType": "10-Q",
+      "filedAt": "2023-05-26",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001835632-22-000053": {
+      "ticker": "MRVL",
+      "formType": "10-Q",
+      "filedAt": "2022-12-02",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001193125-26-032861": {
+      "ticker": "MRVL",
+      "formType": "8-K/A",
+      "filedAt": "2026-02-02",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001628280-25-056774": {
+      "ticker": "MRVL",
+      "formType": "8-K",
+      "filedAt": "2025-12-12",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001193125-25-305289": {
+      "ticker": "MRVL",
+      "formType": "8-K",
+      "filedAt": "2025-12-02",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001835632-25-000193": {
+      "ticker": "MRVL",
+      "formType": "8-K",
+      "filedAt": "2025-12-02",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001193125-25-305271": {
+      "ticker": "MRVL",
+      "formType": "8-K",
+      "filedAt": "2025-12-02",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001193125-25-217311": {
+      "ticker": "MRVL",
+      "formType": "8-K",
+      "filedAt": "2025-09-25",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001193125-25-214314": {
+      "ticker": "MRVL",
+      "formType": "8-K",
+      "filedAt": "2025-09-24",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001193125-25-209108": {
+      "ticker": "MRVL",
+      "formType": "8-K",
+      "filedAt": "2025-09-19",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001835632-25-000187": {
+      "ticker": "MRVL",
+      "formType": "8-K",
+      "filedAt": "2025-08-28",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001193125-25-180425": {
+      "ticker": "MRVL",
+      "formType": "8-K",
+      "filedAt": "2025-08-14",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001193125-26-032163": {
+      "ticker": "MRVL",
+      "formType": "4/A",
+      "filedAt": "2026-01-30",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001628280-26-002747": {
+      "ticker": "MRVL",
+      "formType": "4",
+      "filedAt": "2026-01-20",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001628280-26-002745": {
+      "ticker": "MRVL",
+      "formType": "4",
+      "filedAt": "2026-01-20",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001628280-26-002654": {
+      "ticker": "MRVL",
+      "formType": "4",
+      "filedAt": "2026-01-20",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001628280-26-002648": {
+      "ticker": "MRVL",
+      "formType": "4",
+      "filedAt": "2026-01-20",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001628280-26-002597": {
+      "ticker": "MRVL",
+      "formType": "4",
+      "filedAt": "2026-01-20",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001628280-26-001239": {
+      "ticker": "MRVL",
+      "formType": "4",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001628280-25-057223": {
+      "ticker": "MRVL",
+      "formType": "4",
+      "filedAt": "2025-12-15",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001628280-25-057220": {
+      "ticker": "MRVL",
+      "formType": "4",
+      "filedAt": "2025-12-15",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001628280-25-057218": {
+      "ticker": "MRVL",
+      "formType": "4",
+      "filedAt": "2025-12-15",
+      "processedAt": "2026-02-04T03:40:53.011Z"
+    },
+    "0001193125-22-110410": {
+      "ticker": "TSM",
+      "formType": "424B2",
+      "filedAt": "2022-04-20",
+      "processedAt": "2026-02-04T03:40:55.989Z"
+    },
+    "0001193125-22-108080": {
+      "ticker": "TSM",
+      "formType": "424B5",
+      "filedAt": "2022-04-18",
+      "processedAt": "2026-02-04T03:40:55.989Z"
+    },
+    "0001193125-21-303601": {
+      "ticker": "TSM",
+      "formType": "424B2",
+      "filedAt": "2021-10-21",
+      "processedAt": "2026-02-04T03:40:55.989Z"
+    },
+    "0001193125-21-301154": {
+      "ticker": "TSM",
+      "formType": "424B5",
+      "filedAt": "2021-10-18",
+      "processedAt": "2026-02-04T03:40:55.989Z"
+    },
+    "0001145549-07-000866": {
+      "ticker": "TSM",
+      "formType": "424B5",
+      "filedAt": "2007-05-18",
+      "processedAt": "2026-02-04T03:40:55.989Z"
+    },
+    "0001145549-05-001445": {
+      "ticker": "TSM",
+      "formType": "424B1",
+      "filedAt": "2005-08-05",
+      "processedAt": "2026-02-04T03:40:55.989Z"
+    },
+    "0001193125-03-077369": {
+      "ticker": "TSM",
+      "formType": "424B4",
+      "filedAt": "2003-11-12",
+      "processedAt": "2026-02-04T03:40:55.989Z"
+    },
+    "0000950168-03-002302": {
+      "ticker": "TSM",
+      "formType": "424B1",
+      "filedAt": "2003-07-09",
+      "processedAt": "2026-02-04T03:40:55.989Z"
+    },
+    "9999999997-02-007355": {
+      "ticker": "TSM",
+      "formType": "424B1",
+      "filedAt": "2002-02-04",
+      "processedAt": "2026-02-04T03:40:55.989Z"
+    },
+    "9999999997-02-007356": {
+      "ticker": "TSM",
+      "formType": "424B1",
+      "filedAt": "2002-02-04",
+      "processedAt": "2026-02-04T03:40:55.989Z"
+    },
+    "0001193125-13-005014": {
+      "ticker": "ASML",
+      "formType": "424B3",
+      "filedAt": "2013-01-07",
+      "processedAt": "2026-02-04T03:40:56.501Z"
+    },
+    "0001193125-12-503048": {
+      "ticker": "ASML",
+      "formType": "425",
+      "filedAt": "2012-12-14",
+      "processedAt": "2026-02-04T03:40:56.501Z"
+    },
+    "0001193125-12-427108": {
+      "ticker": "ASML",
+      "formType": "425",
+      "filedAt": "2012-10-18",
+      "processedAt": "2026-02-04T03:40:56.501Z"
+    },
+    "0001193125-12-426117": {
+      "ticker": "ASML",
+      "formType": "425",
+      "filedAt": "2012-10-17",
+      "processedAt": "2026-02-04T03:40:56.501Z"
+    },
+    "0001193125-12-425822": {
+      "ticker": "ASML",
+      "formType": "425",
+      "filedAt": "2012-10-17",
+      "processedAt": "2026-02-04T03:40:56.501Z"
+    },
+    "0001193125-12-425821": {
+      "ticker": "ASML",
+      "formType": "425",
+      "filedAt": "2012-10-17",
+      "processedAt": "2026-02-04T03:40:56.501Z"
+    },
+    "0001193125-12-425801": {
+      "ticker": "ASML",
+      "formType": "425",
+      "filedAt": "2012-10-17",
+      "processedAt": "2026-02-04T03:40:56.501Z"
+    },
+    "0000950172-03-003423": {
+      "ticker": "ASML",
+      "formType": "424B3",
+      "filedAt": "2003-11-28",
+      "processedAt": "2026-02-04T03:40:56.501Z"
+    },
+    "0000950172-03-002490": {
+      "ticker": "ASML",
+      "formType": "424B3",
+      "filedAt": "2003-08-04",
+      "processedAt": "2026-02-04T03:40:56.501Z"
+    },
+    "0000950172-03-002325": {
+      "ticker": "ASML",
+      "formType": "424B3",
+      "filedAt": "2003-07-18",
+      "processedAt": "2026-02-04T03:40:56.501Z"
+    },
+    "0001628280-25-056742": {
+      "ticker": "AMAT",
+      "formType": "10-K",
+      "filedAt": "2025-12-12",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-24-000044": {
+      "ticker": "AMAT",
+      "formType": "10-K",
+      "filedAt": "2024-12-13",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-23-000041": {
+      "ticker": "AMAT",
+      "formType": "10-K",
+      "filedAt": "2023-12-15",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-22-000043": {
+      "ticker": "AMAT",
+      "formType": "10-K",
+      "filedAt": "2022-12-16",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-21-000043": {
+      "ticker": "AMAT",
+      "formType": "10-K",
+      "filedAt": "2021-12-17",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-20-000048": {
+      "ticker": "AMAT",
+      "formType": "10-K",
+      "filedAt": "2020-12-11",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-19-000046": {
+      "ticker": "AMAT",
+      "formType": "10-K",
+      "filedAt": "2019-12-13",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-18-000041": {
+      "ticker": "AMAT",
+      "formType": "10-K",
+      "filedAt": "2018-12-13",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-17-000038": {
+      "ticker": "AMAT",
+      "formType": "10-K",
+      "filedAt": "2017-12-15",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-16-000068": {
+      "ticker": "AMAT",
+      "formType": "10-K",
+      "filedAt": "2016-12-15",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-25-000037": {
+      "ticker": "AMAT",
+      "formType": "10-Q",
+      "filedAt": "2025-08-21",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-25-000024": {
+      "ticker": "AMAT",
+      "formType": "10-Q",
+      "filedAt": "2025-05-22",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-25-000011": {
+      "ticker": "AMAT",
+      "formType": "10-Q",
+      "filedAt": "2025-02-20",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-24-000032": {
+      "ticker": "AMAT",
+      "formType": "10-Q",
+      "filedAt": "2024-08-22",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-24-000022": {
+      "ticker": "AMAT",
+      "formType": "10-Q",
+      "filedAt": "2024-05-23",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-24-000012": {
+      "ticker": "AMAT",
+      "formType": "10-Q",
+      "filedAt": "2024-02-27",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-23-000031": {
+      "ticker": "AMAT",
+      "formType": "10-Q",
+      "filedAt": "2023-08-24",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-23-000022": {
+      "ticker": "AMAT",
+      "formType": "10-Q",
+      "filedAt": "2023-05-26",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-23-000012": {
+      "ticker": "AMAT",
+      "formType": "10-Q",
+      "filedAt": "2023-02-23",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-22-000032": {
+      "ticker": "AMAT",
+      "formType": "10-Q",
+      "filedAt": "2022-08-25",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-25-051998": {
+      "ticker": "AMAT",
+      "formType": "8-K",
+      "filedAt": "2025-11-13",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-25-046107": {
+      "ticker": "AMAT",
+      "formType": "8-K",
+      "filedAt": "2025-10-23",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-25-043753": {
+      "ticker": "AMAT",
+      "formType": "8-K",
+      "filedAt": "2025-10-02",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-25-042933": {
+      "ticker": "AMAT",
+      "formType": "8-K",
+      "filedAt": "2025-09-26",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001193125-25-209109": {
+      "ticker": "AMAT",
+      "formType": "8-K",
+      "filedAt": "2025-09-19",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001193125-25-202820": {
+      "ticker": "AMAT",
+      "formType": "8-K",
+      "filedAt": "2025-09-15",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-25-000032": {
+      "ticker": "AMAT",
+      "formType": "8-K",
+      "filedAt": "2025-08-14",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001193125-25-162237": {
+      "ticker": "AMAT",
+      "formType": "8-K",
+      "filedAt": "2025-07-22",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000006951-25-000017": {
+      "ticker": "AMAT",
+      "formType": "8-K",
+      "filedAt": "2025-05-15",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001193125-25-080269": {
+      "ticker": "AMAT",
+      "formType": "8-K",
+      "filedAt": "2025-04-14",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-26-001411": {
+      "ticker": "AMAT",
+      "formType": "4",
+      "filedAt": "2026-01-08",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-26-000689": {
+      "ticker": "AMAT",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-26-000688": {
+      "ticker": "AMAT",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-26-000687": {
+      "ticker": "AMAT",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-25-058752": {
+      "ticker": "AMAT",
+      "formType": "4",
+      "filedAt": "2025-12-23",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-25-058751": {
+      "ticker": "AMAT",
+      "formType": "4",
+      "filedAt": "2025-12-23",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-25-058750": {
+      "ticker": "AMAT",
+      "formType": "4",
+      "filedAt": "2025-12-23",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-25-058749": {
+      "ticker": "AMAT",
+      "formType": "4",
+      "filedAt": "2025-12-23",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-25-058748": {
+      "ticker": "AMAT",
+      "formType": "4",
+      "filedAt": "2025-12-23",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0001628280-25-058747": {
+      "ticker": "AMAT",
+      "formType": "4",
+      "filedAt": "2025-12-23",
+      "processedAt": "2026-02-04T03:40:57.014Z"
+    },
+    "0000707549-25-000075": {
+      "ticker": "LRCX",
+      "formType": "10-K",
+      "filedAt": "2025-08-11",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-24-000106": {
+      "ticker": "LRCX",
+      "formType": "10-K",
+      "filedAt": "2024-08-29",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-23-000102": {
+      "ticker": "LRCX",
+      "formType": "10-K",
+      "filedAt": "2023-08-15",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-22-000107": {
+      "ticker": "LRCX",
+      "formType": "10-K",
+      "filedAt": "2022-08-24",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-21-000136": {
+      "ticker": "LRCX",
+      "formType": "10-K",
+      "filedAt": "2021-08-17",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-20-000138": {
+      "ticker": "LRCX",
+      "formType": "10-K",
+      "filedAt": "2020-08-18",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-19-000124": {
+      "ticker": "LRCX",
+      "formType": "10-K",
+      "filedAt": "2019-08-20",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-18-000115": {
+      "ticker": "LRCX",
+      "formType": "10-K",
+      "filedAt": "2018-08-14",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-17-000100": {
+      "ticker": "LRCX",
+      "formType": "10-K",
+      "filedAt": "2017-08-15",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-16-000050": {
+      "ticker": "LRCX",
+      "formType": "10-K",
+      "filedAt": "2016-08-17",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-26-000009": {
+      "ticker": "LRCX",
+      "formType": "10-Q",
+      "filedAt": "2026-01-29",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000085": {
+      "ticker": "LRCX",
+      "formType": "10-Q",
+      "filedAt": "2025-10-24",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000054": {
+      "ticker": "LRCX",
+      "formType": "10-Q",
+      "filedAt": "2025-04-25",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000014": {
+      "ticker": "LRCX",
+      "formType": "10-Q",
+      "filedAt": "2025-01-31",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-24-000128": {
+      "ticker": "LRCX",
+      "formType": "10-Q",
+      "filedAt": "2024-10-28",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-24-000067": {
+      "ticker": "LRCX",
+      "formType": "10-Q",
+      "filedAt": "2024-04-29",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-24-000016": {
+      "ticker": "LRCX",
+      "formType": "10-Q",
+      "filedAt": "2024-01-29",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-23-000115": {
+      "ticker": "LRCX",
+      "formType": "10-Q",
+      "filedAt": "2023-10-23",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-23-000081": {
+      "ticker": "LRCX",
+      "formType": "10-Q",
+      "filedAt": "2023-04-24",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-23-000008": {
+      "ticker": "LRCX",
+      "formType": "10-Q",
+      "filedAt": "2023-01-30",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-26-000012": {
+      "ticker": "LRCX",
+      "formType": "8-K",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-26-000006": {
+      "ticker": "LRCX",
+      "formType": "8-K",
+      "filedAt": "2026-01-28",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000094": {
+      "ticker": "LRCX",
+      "formType": "8-K",
+      "filedAt": "2025-11-06",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000082": {
+      "ticker": "LRCX",
+      "formType": "8-K",
+      "filedAt": "2025-10-22",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000078": {
+      "ticker": "LRCX",
+      "formType": "8-K",
+      "filedAt": "2025-09-11",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000068": {
+      "ticker": "LRCX",
+      "formType": "8-K",
+      "filedAt": "2025-07-30",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000060": {
+      "ticker": "LRCX",
+      "formType": "8-K",
+      "filedAt": "2025-05-21",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000051": {
+      "ticker": "LRCX",
+      "formType": "8-K",
+      "filedAt": "2025-04-23",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000011": {
+      "ticker": "LRCX",
+      "formType": "8-K",
+      "filedAt": "2025-01-29",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0000707549-25-000009": {
+      "ticker": "LRCX",
+      "formType": "8-K",
+      "filedAt": "2025-01-29",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001343600-25-000006": {
+      "ticker": "LRCX",
+      "formType": "4",
+      "filedAt": "2025-12-18",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001469469-25-000004": {
+      "ticker": "LRCX",
+      "formType": "4",
+      "filedAt": "2025-11-17",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001405693-25-000009": {
+      "ticker": "LRCX",
+      "formType": "4",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001892841-25-000003": {
+      "ticker": "LRCX",
+      "formType": "4",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001965462-25-000005": {
+      "ticker": "LRCX",
+      "formType": "4",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001191534-25-000007": {
+      "ticker": "LRCX",
+      "formType": "4",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001645270-25-000006": {
+      "ticker": "LRCX",
+      "formType": "4",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001201489-25-000005": {
+      "ticker": "LRCX",
+      "formType": "4",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001494211-25-000008": {
+      "ticker": "LRCX",
+      "formType": "4",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001190639-25-000004": {
+      "ticker": "LRCX",
+      "formType": "4",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:40:57.568Z"
+    },
+    "0001868275-25-000023": {
+      "ticker": "CEG",
+      "formType": "10-K",
+      "filedAt": "2025-02-18",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-24-000014": {
+      "ticker": "CEG",
+      "formType": "10-K",
+      "filedAt": "2024-02-27",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-23-000014": {
+      "ticker": "CEG",
+      "formType": "10-K",
+      "filedAt": "2023-02-16",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-22-000020": {
+      "ticker": "CEG",
+      "formType": "10-K",
+      "filedAt": "2022-02-25",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-25-000092": {
+      "ticker": "CEG",
+      "formType": "10-Q",
+      "filedAt": "2025-11-07",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-25-000073": {
+      "ticker": "CEG",
+      "formType": "10-Q",
+      "filedAt": "2025-08-07",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-25-000044": {
+      "ticker": "CEG",
+      "formType": "10-Q",
+      "filedAt": "2025-05-06",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-24-000069": {
+      "ticker": "CEG",
+      "formType": "10-Q",
+      "filedAt": "2024-11-04",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-24-000054": {
+      "ticker": "CEG",
+      "formType": "10-Q",
+      "filedAt": "2024-08-06",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-24-000026": {
+      "ticker": "CEG",
+      "formType": "10-Q",
+      "filedAt": "2024-05-09",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-23-000080": {
+      "ticker": "CEG",
+      "formType": "10-Q",
+      "filedAt": "2023-11-06",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-23-000064": {
+      "ticker": "CEG",
+      "formType": "10-Q",
+      "filedAt": "2023-08-03",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-23-000032": {
+      "ticker": "CEG",
+      "formType": "10-Q",
+      "filedAt": "2023-05-04",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-22-000094": {
+      "ticker": "CEG",
+      "formType": "10-Q",
+      "filedAt": "2022-11-08",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-26-000009": {
+      "ticker": "CEG",
+      "formType": "8-K",
+      "filedAt": "2026-01-15",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-26-000005": {
+      "ticker": "CEG",
+      "formType": "8-K",
+      "filedAt": "2026-01-13",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001104659-26-001780": {
+      "ticker": "CEG",
+      "formType": "8-K",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-25-000119": {
+      "ticker": "CEG",
+      "formType": "8-K",
+      "filedAt": "2025-12-23",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-25-000112": {
+      "ticker": "CEG",
+      "formType": "8-K",
+      "filedAt": "2025-12-17",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001104659-25-119690": {
+      "ticker": "CEG",
+      "formType": "8-K",
+      "filedAt": "2025-12-09",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001104659-25-119687": {
+      "ticker": "CEG",
+      "formType": "8-K",
+      "filedAt": "2025-12-09",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-25-000107": {
+      "ticker": "CEG",
+      "formType": "8-K",
+      "filedAt": "2025-11-21",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-25-000099": {
+      "ticker": "CEG",
+      "formType": "8-K",
+      "filedAt": "2025-11-18",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001868275-25-000094": {
+      "ticker": "CEG",
+      "formType": "8-K",
+      "filedAt": "2025-11-12",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0000905148-26-000159": {
+      "ticker": "CEG",
+      "formType": "4",
+      "filedAt": "2026-01-13",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0000905148-26-000158": {
+      "ticker": "CEG",
+      "formType": "4",
+      "filedAt": "2026-01-13",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0000905148-26-000157": {
+      "ticker": "CEG",
+      "formType": "4",
+      "filedAt": "2026-01-13",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0000905148-26-000108": {
+      "ticker": "CEG",
+      "formType": "4",
+      "filedAt": "2026-01-09",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0000905148-26-000033": {
+      "ticker": "CEG",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0000905148-26-000032": {
+      "ticker": "CEG",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0000905148-26-000030": {
+      "ticker": "CEG",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0000905148-25-003731": {
+      "ticker": "CEG",
+      "formType": "4",
+      "filedAt": "2025-10-31",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0000905148-25-003488": {
+      "ticker": "CEG",
+      "formType": "4",
+      "filedAt": "2025-10-02",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0000905148-25-003487": {
+      "ticker": "CEG",
+      "formType": "4",
+      "filedAt": "2025-10-02",
+      "processedAt": "2026-02-04T03:40:58.151Z"
+    },
+    "0001692819-25-000013": {
+      "ticker": "VST",
+      "formType": "10-K",
+      "filedAt": "2025-02-28",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-24-000012": {
+      "ticker": "VST",
+      "formType": "10-K",
+      "filedAt": "2024-02-29",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-23-000005": {
+      "ticker": "VST",
+      "formType": "10-K",
+      "filedAt": "2023-03-01",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-22-000005": {
+      "ticker": "VST",
+      "formType": "10-K",
+      "filedAt": "2022-02-25",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-21-000004": {
+      "ticker": "VST",
+      "formType": "10-K",
+      "filedAt": "2021-02-26",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-20-000005": {
+      "ticker": "VST",
+      "formType": "10-K",
+      "filedAt": "2020-02-28",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-19-198162": {
+      "ticker": "VST",
+      "formType": "10-K/A",
+      "filedAt": "2019-07-19",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-19-000005": {
+      "ticker": "VST",
+      "formType": "10-K",
+      "filedAt": "2019-02-28",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-18-000018": {
+      "ticker": "VST",
+      "formType": "10-K",
+      "filedAt": "2018-02-26",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-25-000094": {
+      "ticker": "VST",
+      "formType": "10-Q",
+      "filedAt": "2025-11-07",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-25-000085": {
+      "ticker": "VST",
+      "formType": "10-Q",
+      "filedAt": "2025-08-08",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-25-000035": {
+      "ticker": "VST",
+      "formType": "10-Q",
+      "filedAt": "2025-05-08",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-24-000069": {
+      "ticker": "VST",
+      "formType": "10-Q",
+      "filedAt": "2024-11-08",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-24-000061": {
+      "ticker": "VST",
+      "formType": "10-Q",
+      "filedAt": "2024-08-09",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-24-000033": {
+      "ticker": "VST",
+      "formType": "10-Q",
+      "filedAt": "2024-05-10",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001628280-23-037205": {
+      "ticker": "VST",
+      "formType": "10-Q",
+      "filedAt": "2023-11-07",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001628280-23-028436": {
+      "ticker": "VST",
+      "formType": "10-Q",
+      "filedAt": "2023-08-09",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001628280-23-016662": {
+      "ticker": "VST",
+      "formType": "10-Q",
+      "filedAt": "2023-05-09",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001692819-22-000024": {
+      "ticker": "VST",
+      "formType": "10-Q",
+      "filedAt": "2022-11-04",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-26-024837": {
+      "ticker": "VST",
+      "formType": "8-K",
+      "filedAt": "2026-01-27",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-26-008508": {
+      "ticker": "VST",
+      "formType": "8-K",
+      "filedAt": "2026-01-09",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-26-002589": {
+      "ticker": "VST",
+      "formType": "8-K",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-25-322976": {
+      "ticker": "VST",
+      "formType": "8-K",
+      "filedAt": "2025-12-17",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-25-283860": {
+      "ticker": "VST",
+      "formType": "8-K",
+      "filedAt": "2025-11-17",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-25-268033": {
+      "ticker": "VST",
+      "formType": "8-K",
+      "filedAt": "2025-11-06",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-25-253608": {
+      "ticker": "VST",
+      "formType": "8-K",
+      "filedAt": "2025-10-28",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-25-240234": {
+      "ticker": "VST",
+      "formType": "8-K",
+      "filedAt": "2025-10-15",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-25-230840": {
+      "ticker": "VST",
+      "formType": "8-K",
+      "filedAt": "2025-10-06",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001193125-25-221774": {
+      "ticker": "VST",
+      "formType": "8-K",
+      "filedAt": "2025-09-29",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001268406-25-000047": {
+      "ticker": "VST",
+      "formType": "4/A",
+      "filedAt": "2025-12-16",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001268406-25-000045": {
+      "ticker": "VST",
+      "formType": "4",
+      "filedAt": "2025-12-15",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001703634-25-000005": {
+      "ticker": "VST",
+      "formType": "4",
+      "filedAt": "2025-12-02",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001703634-25-000003": {
+      "ticker": "VST",
+      "formType": "4",
+      "filedAt": "2025-11-26",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001703633-25-000005": {
+      "ticker": "VST",
+      "formType": "4",
+      "filedAt": "2025-11-24",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001268406-25-000043": {
+      "ticker": "VST",
+      "formType": "4",
+      "filedAt": "2025-11-24",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001728553-25-000003": {
+      "ticker": "VST",
+      "formType": "4",
+      "filedAt": "2025-11-18",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001703633-25-000003": {
+      "ticker": "VST",
+      "formType": "4",
+      "filedAt": "2025-11-18",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001602114-25-000003": {
+      "ticker": "VST",
+      "formType": "4",
+      "filedAt": "2025-11-17",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001268406-25-000041": {
+      "ticker": "VST",
+      "formType": "4",
+      "filedAt": "2025-11-13",
+      "processedAt": "2026-02-04T03:40:58.674Z"
+    },
+    "0001013871-25-000006": {
+      "ticker": "NRG",
+      "formType": "10-K",
+      "filedAt": "2025-02-26",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-24-000005": {
+      "ticker": "NRG",
+      "formType": "10-K",
+      "filedAt": "2024-02-28",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-23-000004": {
+      "ticker": "NRG",
+      "formType": "10-K",
+      "filedAt": "2023-02-23",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-22-000010": {
+      "ticker": "NRG",
+      "formType": "10-K",
+      "filedAt": "2022-02-24",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-21-000005": {
+      "ticker": "NRG",
+      "formType": "10-K",
+      "filedAt": "2021-03-01",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-20-000013": {
+      "ticker": "NRG",
+      "formType": "10-K",
+      "filedAt": "2020-02-27",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-19-000007": {
+      "ticker": "NRG",
+      "formType": "10-K",
+      "filedAt": "2019-02-28",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-18-000011": {
+      "ticker": "NRG",
+      "formType": "10-K",
+      "filedAt": "2018-03-01",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-17-000007": {
+      "ticker": "NRG",
+      "formType": "10-K",
+      "filedAt": "2017-02-28",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-16-000022": {
+      "ticker": "NRG",
+      "formType": "10-K",
+      "filedAt": "2016-02-29",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-25-000025": {
+      "ticker": "NRG",
+      "formType": "10-Q",
+      "filedAt": "2025-11-06",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-25-000020": {
+      "ticker": "NRG",
+      "formType": "10-Q",
+      "filedAt": "2025-08-06",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-25-000013": {
+      "ticker": "NRG",
+      "formType": "10-Q",
+      "filedAt": "2025-05-12",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-24-000020": {
+      "ticker": "NRG",
+      "formType": "10-Q",
+      "filedAt": "2024-11-08",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-24-000015": {
+      "ticker": "NRG",
+      "formType": "10-Q",
+      "filedAt": "2024-08-08",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-24-000010": {
+      "ticker": "NRG",
+      "formType": "10-Q",
+      "filedAt": "2024-05-07",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-23-000022": {
+      "ticker": "NRG",
+      "formType": "10-Q",
+      "filedAt": "2023-11-02",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-23-000017": {
+      "ticker": "NRG",
+      "formType": "10-Q",
+      "filedAt": "2023-08-08",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-23-000012": {
+      "ticker": "NRG",
+      "formType": "10-Q",
+      "filedAt": "2023-05-04",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-22-000027": {
+      "ticker": "NRG",
+      "formType": "10-Q",
+      "filedAt": "2022-11-07",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001104659-26-009194": {
+      "ticker": "NRG",
+      "formType": "8-K/A",
+      "filedAt": "2026-02-02",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001104659-26-008932": {
+      "ticker": "NRG",
+      "formType": "8-K",
+      "filedAt": "2026-02-02",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001104659-26-008567": {
+      "ticker": "NRG",
+      "formType": "8-K",
+      "filedAt": "2026-01-30",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001104659-26-001602": {
+      "ticker": "NRG",
+      "formType": "8-K",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001104659-26-000204": {
+      "ticker": "NRG",
+      "formType": "8-K",
+      "filedAt": "2026-01-02",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001013871-25-000023": {
+      "ticker": "NRG",
+      "formType": "8-K",
+      "filedAt": "2025-11-06",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001104659-25-097932": {
+      "ticker": "NRG",
+      "formType": "8-K",
+      "filedAt": "2025-10-08",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001104659-25-095650": {
+      "ticker": "NRG",
+      "formType": "8-K",
+      "filedAt": "2025-10-01",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001104659-25-093002": {
+      "ticker": "NRG",
+      "formType": "8-K",
+      "filedAt": "2025-09-24",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001104659-25-092754": {
+      "ticker": "NRG",
+      "formType": "8-K",
+      "filedAt": "2025-09-24",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001225208-26-000532": {
+      "ticker": "NRG",
+      "formType": "4",
+      "filedAt": "2026-01-08",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001104659-26-001538": {
+      "ticker": "NRG",
+      "formType": "4",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001225208-26-000431": {
+      "ticker": "NRG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001225208-26-000413": {
+      "ticker": "NRG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001225208-26-000412": {
+      "ticker": "NRG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001225208-26-000411": {
+      "ticker": "NRG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001225208-26-000410": {
+      "ticker": "NRG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001225208-26-000409": {
+      "ticker": "NRG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001225208-26-000408": {
+      "ticker": "NRG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001225208-25-010082": {
+      "ticker": "NRG",
+      "formType": "4",
+      "filedAt": "2025-12-17",
+      "processedAt": "2026-02-04T03:40:59.161Z"
+    },
+    "0001463101-25-000024": {
+      "ticker": "ENPH",
+      "formType": "10-K",
+      "filedAt": "2025-02-10",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-24-000024": {
+      "ticker": "ENPH",
+      "formType": "10-K",
+      "filedAt": "2024-02-09",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-23-000025": {
+      "ticker": "ENPH",
+      "formType": "10-K",
+      "filedAt": "2023-02-13",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-22-000016": {
+      "ticker": "ENPH",
+      "formType": "10-K",
+      "filedAt": "2022-02-11",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-21-000016": {
+      "ticker": "ENPH",
+      "formType": "10-K",
+      "filedAt": "2021-02-16",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-20-000021": {
+      "ticker": "ENPH",
+      "formType": "10-K",
+      "filedAt": "2020-02-21",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-19-000033": {
+      "ticker": "ENPH",
+      "formType": "10-K",
+      "filedAt": "2019-03-15",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-18-000030": {
+      "ticker": "ENPH",
+      "formType": "10-K",
+      "filedAt": "2018-04-02",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-17-000024": {
+      "ticker": "ENPH",
+      "formType": "10-K",
+      "filedAt": "2017-03-16",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-16-000040": {
+      "ticker": "ENPH",
+      "formType": "10-K",
+      "filedAt": "2016-03-01",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-25-000112": {
+      "ticker": "ENPH",
+      "formType": "10-Q",
+      "filedAt": "2025-10-28",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-25-000101": {
+      "ticker": "ENPH",
+      "formType": "10-Q",
+      "filedAt": "2025-07-22",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-25-000056": {
+      "ticker": "ENPH",
+      "formType": "10-Q",
+      "filedAt": "2025-04-22",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-24-000141": {
+      "ticker": "ENPH",
+      "formType": "10-Q",
+      "filedAt": "2024-10-22",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-24-000119": {
+      "ticker": "ENPH",
+      "formType": "10-Q",
+      "filedAt": "2024-07-23",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-24-000071": {
+      "ticker": "ENPH",
+      "formType": "10-Q",
+      "filedAt": "2024-04-23",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-23-000165": {
+      "ticker": "ENPH",
+      "formType": "10-Q",
+      "filedAt": "2023-10-26",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-23-000140": {
+      "ticker": "ENPH",
+      "formType": "10-Q",
+      "filedAt": "2023-07-27",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-23-000085": {
+      "ticker": "ENPH",
+      "formType": "10-Q",
+      "filedAt": "2023-04-25",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-22-000112": {
+      "ticker": "ENPH",
+      "formType": "10-Q",
+      "filedAt": "2022-10-25",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-26-000008": {
+      "ticker": "ENPH",
+      "formType": "8-K",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-26-000005": {
+      "ticker": "ENPH",
+      "formType": "8-K",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-25-000111": {
+      "ticker": "ENPH",
+      "formType": "8-K",
+      "filedAt": "2025-10-28",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-25-000099": {
+      "ticker": "ENPH",
+      "formType": "8-K",
+      "filedAt": "2025-07-22",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-25-000090": {
+      "ticker": "ENPH",
+      "formType": "8-K",
+      "filedAt": "2025-06-30",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-25-000075": {
+      "ticker": "ENPH",
+      "formType": "8-K",
+      "filedAt": "2025-05-20",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-25-000054": {
+      "ticker": "ENPH",
+      "formType": "8-K",
+      "filedAt": "2025-04-22",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-25-000014": {
+      "ticker": "ENPH",
+      "formType": "8-K",
+      "filedAt": "2025-02-04",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-24-000145": {
+      "ticker": "ENPH",
+      "formType": "8-K",
+      "filedAt": "2024-11-08",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001463101-24-000140": {
+      "ticker": "ENPH",
+      "formType": "8-K",
+      "filedAt": "2024-10-22",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0002022111-26-000002": {
+      "ticker": "ENPH",
+      "formType": "4",
+      "filedAt": "2026-01-30",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001645551-26-000002": {
+      "ticker": "ENPH",
+      "formType": "4",
+      "filedAt": "2026-01-30",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001543777-26-000002": {
+      "ticker": "ENPH",
+      "formType": "4",
+      "filedAt": "2026-01-30",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0002022111-26-000001": {
+      "ticker": "ENPH",
+      "formType": "4",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001543777-26-000001": {
+      "ticker": "ENPH",
+      "formType": "4",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001645551-26-000001": {
+      "ticker": "ENPH",
+      "formType": "4",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001645551-25-000003": {
+      "ticker": "ENPH",
+      "formType": "4",
+      "filedAt": "2025-12-12",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001183967-25-000015": {
+      "ticker": "ENPH",
+      "formType": "4",
+      "filedAt": "2025-12-04",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001543777-25-000005": {
+      "ticker": "ENPH",
+      "formType": "4",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001543777-25-000004": {
+      "ticker": "ENPH",
+      "formType": "4",
+      "filedAt": "2025-11-03",
+      "processedAt": "2026-02-04T03:41:00.727Z"
+    },
+    "0001178913-25-000605": {
+      "ticker": "SEDG",
+      "formType": "10-K",
+      "filedAt": "2025-02-25",
+      "processedAt": "2026-02-04T03:41:01.246Z"
+    },
+    "0001178913-24-000717": {
+      "ticker": "SEDG",
+      "formType": "10-K",
+      "filedAt": "2024-02-26",
+      "processedAt": "2026-02-04T03:41:01.246Z"
+    },
+    "0001178913-23-000707": {
+      "ticker": "SEDG",
+      "formType": "10-K",
+      "filedAt": "2023-02-22",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-22-000760": {
+      "ticker": "SEDG",
+      "formType": "10-K",
+      "filedAt": "2022-02-22",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-21-000700": {
+      "ticker": "SEDG",
+      "formType": "10-K/A",
+      "filedAt": "2021-02-19",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-21-000696": {
+      "ticker": "SEDG",
+      "formType": "10-K",
+      "filedAt": "2021-02-19",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-20-000672": {
+      "ticker": "SEDG",
+      "formType": "10-K",
+      "filedAt": "2020-02-27",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-19-000721": {
+      "ticker": "SEDG",
+      "formType": "10-K",
+      "filedAt": "2019-02-28",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-18-000655": {
+      "ticker": "SEDG",
+      "formType": "10-K",
+      "filedAt": "2018-02-20",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-17-000579": {
+      "ticker": "SEDG",
+      "formType": "10-KT",
+      "filedAt": "2017-02-21",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-003678": {
+      "ticker": "SEDG",
+      "formType": "10-Q",
+      "filedAt": "2025-11-06",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-002690": {
+      "ticker": "SEDG",
+      "formType": "10-Q",
+      "filedAt": "2025-08-07",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-001662": {
+      "ticker": "SEDG",
+      "formType": "10-Q",
+      "filedAt": "2025-05-08",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-24-003529": {
+      "ticker": "SEDG",
+      "formType": "10-Q",
+      "filedAt": "2024-11-07",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-24-002470": {
+      "ticker": "SEDG",
+      "formType": "10-Q",
+      "filedAt": "2024-08-07",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-24-001670": {
+      "ticker": "SEDG",
+      "formType": "10-Q",
+      "filedAt": "2024-05-09",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-23-003538": {
+      "ticker": "SEDG",
+      "formType": "10-Q",
+      "filedAt": "2023-11-06",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-23-002728": {
+      "ticker": "SEDG",
+      "formType": "10-Q",
+      "filedAt": "2023-08-07",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-23-001734": {
+      "ticker": "SEDG",
+      "formType": "10-Q",
+      "filedAt": "2023-05-08",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-22-003868": {
+      "ticker": "SEDG",
+      "formType": "10-Q",
+      "filedAt": "2022-11-08",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-003658": {
+      "ticker": "SEDG",
+      "formType": "8-K",
+      "filedAt": "2025-11-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-003449": {
+      "ticker": "SEDG",
+      "formType": "8-K",
+      "filedAt": "2025-09-30",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-002673": {
+      "ticker": "SEDG",
+      "formType": "8-K",
+      "filedAt": "2025-08-07",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-002071": {
+      "ticker": "SEDG",
+      "formType": "8-K",
+      "filedAt": "2025-06-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-001588": {
+      "ticker": "SEDG",
+      "formType": "8-K",
+      "filedAt": "2025-05-06",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-001256": {
+      "ticker": "SEDG",
+      "formType": "8-K",
+      "filedAt": "2025-04-10",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-000655": {
+      "ticker": "SEDG",
+      "formType": "8-K",
+      "filedAt": "2025-03-03",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-000546": {
+      "ticker": "SEDG",
+      "formType": "8-K",
+      "filedAt": "2025-02-19",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-000067": {
+      "ticker": "SEDG",
+      "formType": "8-K",
+      "filedAt": "2025-01-08",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-000024": {
+      "ticker": "SEDG",
+      "formType": "8-K",
+      "filedAt": "2025-01-06",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-26-000050": {
+      "ticker": "SEDG",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-26-000048": {
+      "ticker": "SEDG",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-26-000046": {
+      "ticker": "SEDG",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-26-000044": {
+      "ticker": "SEDG",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-003345": {
+      "ticker": "SEDG",
+      "formType": "4",
+      "filedAt": "2025-09-16",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-002108": {
+      "ticker": "SEDG",
+      "formType": "4",
+      "filedAt": "2025-06-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-002093": {
+      "ticker": "SEDG",
+      "formType": "4",
+      "filedAt": "2025-06-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-002091": {
+      "ticker": "SEDG",
+      "formType": "4",
+      "filedAt": "2025-06-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-002089": {
+      "ticker": "SEDG",
+      "formType": "4",
+      "filedAt": "2025-06-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001178913-25-002087": {
+      "ticker": "SEDG",
+      "formType": "4",
+      "filedAt": "2025-06-05",
+      "processedAt": "2026-02-04T03:41:01.247Z"
+    },
+    "0001274494-25-000010": {
+      "ticker": "FSLR",
+      "formType": "10-K",
+      "filedAt": "2025-02-25",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-24-000004": {
+      "ticker": "FSLR",
+      "formType": "10-K",
+      "filedAt": "2024-02-27",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-23-000002": {
+      "ticker": "FSLR",
+      "formType": "10-K",
+      "filedAt": "2023-02-28",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-22-000009": {
+      "ticker": "FSLR",
+      "formType": "10-K",
+      "filedAt": "2022-03-01",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001628280-21-003343": {
+      "ticker": "FSLR",
+      "formType": "10-K",
+      "filedAt": "2021-02-26",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-20-000011": {
+      "ticker": "FSLR",
+      "formType": "10-K",
+      "filedAt": "2020-02-21",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-19-000004": {
+      "ticker": "FSLR",
+      "formType": "10-K",
+      "filedAt": "2019-02-22",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-18-000011": {
+      "ticker": "FSLR",
+      "formType": "10-K",
+      "filedAt": "2018-02-23",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-17-000006": {
+      "ticker": "FSLR",
+      "formType": "10-K",
+      "filedAt": "2017-02-22",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-16-000067": {
+      "ticker": "FSLR",
+      "formType": "10-K",
+      "filedAt": "2016-02-24",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000082": {
+      "ticker": "FSLR",
+      "formType": "10-Q",
+      "filedAt": "2025-10-30",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000054": {
+      "ticker": "FSLR",
+      "formType": "10-Q",
+      "filedAt": "2025-07-31",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000033": {
+      "ticker": "FSLR",
+      "formType": "10-Q",
+      "filedAt": "2025-04-29",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-24-000038": {
+      "ticker": "FSLR",
+      "formType": "10-Q",
+      "filedAt": "2024-10-29",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-24-000033": {
+      "ticker": "FSLR",
+      "formType": "10-Q",
+      "filedAt": "2024-07-30",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-24-000022": {
+      "ticker": "FSLR",
+      "formType": "10-Q",
+      "filedAt": "2024-05-01",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-23-000025": {
+      "ticker": "FSLR",
+      "formType": "10-Q",
+      "filedAt": "2023-10-31",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-23-000022": {
+      "ticker": "FSLR",
+      "formType": "10-Q",
+      "filedAt": "2023-07-27",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-23-000010": {
+      "ticker": "FSLR",
+      "formType": "10-Q",
+      "filedAt": "2023-04-27",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-22-000040": {
+      "ticker": "FSLR",
+      "formType": "10-Q",
+      "filedAt": "2022-10-28",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000081": {
+      "ticker": "FSLR",
+      "formType": "8-K",
+      "filedAt": "2025-10-30",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000077": {
+      "ticker": "FSLR",
+      "formType": "8-K",
+      "filedAt": "2025-10-21",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000053": {
+      "ticker": "FSLR",
+      "formType": "8-K",
+      "filedAt": "2025-07-31",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000047": {
+      "ticker": "FSLR",
+      "formType": "8-K",
+      "filedAt": "2025-07-30",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000043": {
+      "ticker": "FSLR",
+      "formType": "8-K",
+      "filedAt": "2025-06-24",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000036": {
+      "ticker": "FSLR",
+      "formType": "8-K",
+      "filedAt": "2025-05-16",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000032": {
+      "ticker": "FSLR",
+      "formType": "8-K",
+      "filedAt": "2025-04-29",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000012": {
+      "ticker": "FSLR",
+      "formType": "8-K",
+      "filedAt": "2025-03-14",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000009": {
+      "ticker": "FSLR",
+      "formType": "8-K",
+      "filedAt": "2025-02-25",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000006": {
+      "ticker": "FSLR",
+      "formType": "8-K",
+      "filedAt": "2025-02-20",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-26-000012": {
+      "ticker": "FSLR",
+      "formType": "4",
+      "filedAt": "2026-01-20",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-26-000010": {
+      "ticker": "FSLR",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-26-000009": {
+      "ticker": "FSLR",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-26-000008": {
+      "ticker": "FSLR",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-26-000007": {
+      "ticker": "FSLR",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-26-000006": {
+      "ticker": "FSLR",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-26-000005": {
+      "ticker": "FSLR",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-26-000004": {
+      "ticker": "FSLR",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-26-000003": {
+      "ticker": "FSLR",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001274494-25-000086": {
+      "ticker": "FSLR",
+      "formType": "4",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:41:01.793Z"
+    },
+    "0001469367-25-000039": {
+      "ticker": "RUN",
+      "formType": "10-K",
+      "filedAt": "2025-02-27",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-24-000024": {
+      "ticker": "RUN",
+      "formType": "10-K",
+      "filedAt": "2024-02-21",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-23-000030": {
+      "ticker": "RUN",
+      "formType": "10-K",
+      "filedAt": "2023-02-22",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-22-000033": {
+      "ticker": "RUN",
+      "formType": "10-K",
+      "filedAt": "2022-02-17",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-21-000042": {
+      "ticker": "RUN",
+      "formType": "10-K",
+      "filedAt": "2021-02-25",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-20-000061": {
+      "ticker": "RUN",
+      "formType": "10-K",
+      "filedAt": "2020-02-27",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-19-000047": {
+      "ticker": "RUN",
+      "formType": "10-K/A",
+      "filedAt": "2019-03-05",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-19-000041": {
+      "ticker": "RUN",
+      "formType": "10-K",
+      "filedAt": "2019-02-28",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-18-000031": {
+      "ticker": "RUN",
+      "formType": "10-K",
+      "filedAt": "2018-03-06",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001564590-17-003704": {
+      "ticker": "RUN",
+      "formType": "10-K",
+      "filedAt": "2017-03-08",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-25-050191": {
+      "ticker": "RUN",
+      "formType": "10-Q",
+      "filedAt": "2025-11-06",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-25-000148": {
+      "ticker": "RUN",
+      "formType": "10-Q",
+      "filedAt": "2025-08-06",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-25-000104": {
+      "ticker": "RUN",
+      "formType": "10-Q",
+      "filedAt": "2025-05-07",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-24-000199": {
+      "ticker": "RUN",
+      "formType": "10-Q",
+      "filedAt": "2024-11-07",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-24-000146": {
+      "ticker": "RUN",
+      "formType": "10-Q",
+      "filedAt": "2024-08-06",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-24-000092": {
+      "ticker": "RUN",
+      "formType": "10-Q",
+      "filedAt": "2024-05-08",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-23-000202": {
+      "ticker": "RUN",
+      "formType": "10-Q",
+      "filedAt": "2023-11-01",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-23-000166": {
+      "ticker": "RUN",
+      "formType": "10-Q",
+      "filedAt": "2023-08-02",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-23-000118": {
+      "ticker": "RUN",
+      "formType": "10-Q",
+      "filedAt": "2023-05-03",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-22-000159": {
+      "ticker": "RUN",
+      "formType": "10-Q",
+      "filedAt": "2022-11-02",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001193125-26-003449": {
+      "ticker": "RUN",
+      "formType": "8-K",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-25-050170": {
+      "ticker": "RUN",
+      "formType": "8-K",
+      "filedAt": "2025-11-06",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-25-000147": {
+      "ticker": "RUN",
+      "formType": "8-K",
+      "filedAt": "2025-08-06",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-25-000129": {
+      "ticker": "RUN",
+      "formType": "8-K",
+      "filedAt": "2025-06-13",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-25-000103": {
+      "ticker": "RUN",
+      "formType": "8-K",
+      "filedAt": "2025-05-07",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-25-000065": {
+      "ticker": "RUN",
+      "formType": "8-K",
+      "filedAt": "2025-04-04",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-25-000037": {
+      "ticker": "RUN",
+      "formType": "8-K",
+      "filedAt": "2025-02-27",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-25-000026": {
+      "ticker": "RUN",
+      "formType": "8-K",
+      "filedAt": "2025-02-12",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-24-000215": {
+      "ticker": "RUN",
+      "formType": "8-K",
+      "filedAt": "2024-12-23",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-24-000198": {
+      "ticker": "RUN",
+      "formType": "8-K",
+      "filedAt": "2024-11-07",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001469367-26-000002": {
+      "ticker": "RUN",
+      "formType": "4",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-26-001875": {
+      "ticker": "RUN",
+      "formType": "4",
+      "filedAt": "2026-01-12",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-26-001159": {
+      "ticker": "RUN",
+      "formType": "4",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-26-001157": {
+      "ticker": "RUN",
+      "formType": "4",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-26-001155": {
+      "ticker": "RUN",
+      "formType": "4",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-26-001154": {
+      "ticker": "RUN",
+      "formType": "4",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-26-001153": {
+      "ticker": "RUN",
+      "formType": "4",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-26-001092": {
+      "ticker": "RUN",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-26-001091": {
+      "ticker": "RUN",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0001628280-26-001090": {
+      "ticker": "RUN",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:02.320Z"
+    },
+    "0000753308-25-000011": {
+      "ticker": "NEE",
+      "formType": "10-K",
+      "filedAt": "2025-02-14",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-24-000008": {
+      "ticker": "NEE",
+      "formType": "10-K",
+      "filedAt": "2024-02-16",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-23-000019": {
+      "ticker": "NEE",
+      "formType": "10-K",
+      "filedAt": "2023-02-17",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-22-000014": {
+      "ticker": "NEE",
+      "formType": "10-K",
+      "filedAt": "2022-02-18",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-21-000014": {
+      "ticker": "NEE",
+      "formType": "10-K",
+      "filedAt": "2021-02-12",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-20-000021": {
+      "ticker": "NEE",
+      "formType": "10-K",
+      "filedAt": "2020-02-14",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-19-000039": {
+      "ticker": "NEE",
+      "formType": "10-K",
+      "filedAt": "2019-02-15",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-18-000013": {
+      "ticker": "NEE",
+      "formType": "10-K",
+      "filedAt": "2018-02-16",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-17-000060": {
+      "ticker": "NEE",
+      "formType": "10-K",
+      "filedAt": "2017-02-23",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-16-000337": {
+      "ticker": "NEE",
+      "formType": "10-K",
+      "filedAt": "2016-02-22",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000056": {
+      "ticker": "NEE",
+      "formType": "10-Q",
+      "filedAt": "2025-10-28",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000040": {
+      "ticker": "NEE",
+      "formType": "10-Q",
+      "filedAt": "2025-07-23",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000024": {
+      "ticker": "NEE",
+      "formType": "10-Q",
+      "filedAt": "2025-04-23",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-24-000057": {
+      "ticker": "NEE",
+      "formType": "10-Q",
+      "filedAt": "2024-10-23",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-24-000050": {
+      "ticker": "NEE",
+      "formType": "10-Q",
+      "filedAt": "2024-07-24",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-24-000023": {
+      "ticker": "NEE",
+      "formType": "10-Q",
+      "filedAt": "2024-04-23",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-23-000058": {
+      "ticker": "NEE",
+      "formType": "10-Q",
+      "filedAt": "2023-11-07",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-23-000045": {
+      "ticker": "NEE",
+      "formType": "10-Q",
+      "filedAt": "2023-07-26",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-23-000033": {
+      "ticker": "NEE",
+      "formType": "10-Q",
+      "filedAt": "2023-04-26",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-22-000081": {
+      "ticker": "NEE",
+      "formType": "10-Q",
+      "filedAt": "2022-11-03",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-26-000007": {
+      "ticker": "NEE",
+      "formType": "8-K",
+      "filedAt": "2026-01-27",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-26-000004": {
+      "ticker": "NEE",
+      "formType": "8-K",
+      "filedAt": "2026-01-02",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000068": {
+      "ticker": "NEE",
+      "formType": "8-K",
+      "filedAt": "2025-12-31",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000064": {
+      "ticker": "NEE",
+      "formType": "8-K",
+      "filedAt": "2025-12-08",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000062": {
+      "ticker": "NEE",
+      "formType": "8-K",
+      "filedAt": "2025-12-05",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000060": {
+      "ticker": "NEE",
+      "formType": "8-K",
+      "filedAt": "2025-11-20",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000058": {
+      "ticker": "NEE",
+      "formType": "8-K",
+      "filedAt": "2025-11-12",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000055": {
+      "ticker": "NEE",
+      "formType": "8-K",
+      "filedAt": "2025-10-28",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000047": {
+      "ticker": "NEE",
+      "formType": "8-K",
+      "filedAt": "2025-08-20",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000753308-25-000043": {
+      "ticker": "NEE",
+      "formType": "8-K",
+      "filedAt": "2025-08-01",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0001193125-26-034566": {
+      "ticker": "NEE",
+      "formType": "424B5",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0001193125-26-034444": {
+      "ticker": "NEE",
+      "formType": "424B5",
+      "filedAt": "2026-02-03",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0001798344-26-000002": {
+      "ticker": "NEE",
+      "formType": "4",
+      "filedAt": "2026-01-23",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0001950032-26-000002": {
+      "ticker": "NEE",
+      "formType": "4",
+      "filedAt": "2026-01-08",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0001193125-25-338333": {
+      "ticker": "NEE",
+      "formType": "424B5",
+      "filedAt": "2025-12-31",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0001240752-25-000006": {
+      "ticker": "NEE",
+      "formType": "4",
+      "filedAt": "2025-12-16",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0001212969-25-000006": {
+      "ticker": "NEE",
+      "formType": "4",
+      "filedAt": "2025-12-16",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0001950032-25-000008": {
+      "ticker": "NEE",
+      "formType": "4",
+      "filedAt": "2025-12-16",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0001798344-25-000004": {
+      "ticker": "NEE",
+      "formType": "4",
+      "filedAt": "2025-12-12",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0001959910-25-000012": {
+      "ticker": "NEE",
+      "formType": "4",
+      "filedAt": "2025-11-18",
+      "processedAt": "2026-02-04T03:41:02.832Z"
+    },
+    "0000950170-25-027308": {
+      "ticker": "QS",
+      "formType": "10-K",
+      "filedAt": "2025-02-26",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-24-021100": {
+      "ticker": "QS",
+      "formType": "10-K",
+      "filedAt": "2024-02-27",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-23-005129": {
+      "ticker": "QS",
+      "formType": "10-K",
+      "filedAt": "2023-02-28",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001193125-22-097451": {
+      "ticker": "QS",
+      "formType": "10-K/A",
+      "filedAt": "2022-04-06",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-22-002330": {
+      "ticker": "QS",
+      "formType": "10-K",
+      "filedAt": "2022-02-28",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001564590-21-025287": {
+      "ticker": "QS",
+      "formType": "10-K/A",
+      "filedAt": "2021-05-07",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001193125-21-131752": {
+      "ticker": "QS",
+      "formType": "10-K/A",
+      "filedAt": "2021-04-26",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001564590-21-007621": {
+      "ticker": "QS",
+      "formType": "10-K",
+      "filedAt": "2021-02-23",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001193125-25-249971": {
+      "ticker": "QS",
+      "formType": "10-Q",
+      "filedAt": "2025-10-24",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-25-098777": {
+      "ticker": "QS",
+      "formType": "10-Q",
+      "filedAt": "2025-07-25",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-25-058706": {
+      "ticker": "QS",
+      "formType": "10-Q",
+      "filedAt": "2025-04-25",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-24-117409": {
+      "ticker": "QS",
+      "formType": "10-Q",
+      "filedAt": "2024-10-25",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-24-086884": {
+      "ticker": "QS",
+      "formType": "10-Q",
+      "filedAt": "2024-07-26",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-24-049080": {
+      "ticker": "QS",
+      "formType": "10-Q",
+      "filedAt": "2024-04-26",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-23-055982": {
+      "ticker": "QS",
+      "formType": "10-Q",
+      "filedAt": "2023-10-27",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-23-035491": {
+      "ticker": "QS",
+      "formType": "10-Q",
+      "filedAt": "2023-07-28",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-23-015769": {
+      "ticker": "QS",
+      "formType": "10-Q",
+      "filedAt": "2023-04-28",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-22-020465": {
+      "ticker": "QS",
+      "formType": "10-Q",
+      "filedAt": "2022-10-28",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001193125-26-030259": {
+      "ticker": "QS",
+      "formType": "8-K",
+      "filedAt": "2026-01-30",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001193125-25-313459": {
+      "ticker": "QS",
+      "formType": "8-K",
+      "filedAt": "2025-12-10",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001193125-25-311360": {
+      "ticker": "QS",
+      "formType": "8-K",
+      "filedAt": "2025-12-08",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001193125-25-246801": {
+      "ticker": "QS",
+      "formType": "8-K",
+      "filedAt": "2025-10-22",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-25-097898": {
+      "ticker": "QS",
+      "formType": "8-K",
+      "filedAt": "2025-07-23",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-25-097892": {
+      "ticker": "QS",
+      "formType": "8-K",
+      "filedAt": "2025-07-23",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-25-094793": {
+      "ticker": "QS",
+      "formType": "8-K",
+      "filedAt": "2025-07-09",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-25-083249": {
+      "ticker": "QS",
+      "formType": "8-K",
+      "filedAt": "2025-06-06",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-25-065715": {
+      "ticker": "QS",
+      "formType": "8-K",
+      "filedAt": "2025-05-07",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0000950170-25-057423": {
+      "ticker": "QS",
+      "formType": "8-K",
+      "filedAt": "2025-04-23",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001247434-26-000005": {
+      "ticker": "QS",
+      "formType": "4",
+      "filedAt": "2026-01-30",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001834025-26-000002": {
+      "ticker": "QS",
+      "formType": "4",
+      "filedAt": "2026-01-16",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001834249-26-000002": {
+      "ticker": "QS",
+      "formType": "4",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001494727-26-000002": {
+      "ticker": "QS",
+      "formType": "4",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001494727-25-000011": {
+      "ticker": "QS",
+      "formType": "4",
+      "filedAt": "2025-12-22",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001834025-25-000015": {
+      "ticker": "QS",
+      "formType": "4",
+      "filedAt": "2025-12-17",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001785725-25-000003": {
+      "ticker": "QS",
+      "formType": "4",
+      "filedAt": "2025-12-17",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001834268-25-000006": {
+      "ticker": "QS",
+      "formType": "4",
+      "filedAt": "2025-12-16",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001834249-25-000011": {
+      "ticker": "QS",
+      "formType": "4",
+      "filedAt": "2025-12-08",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001177264-25-000020": {
+      "ticker": "QS",
+      "formType": "4",
+      "filedAt": "2025-11-26",
+      "processedAt": "2026-02-04T03:41:03.318Z"
+    },
+    "0001758766-25-000005": {
+      "ticker": "STEM",
+      "formType": "10-K",
+      "filedAt": "2025-03-05",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-24-000029": {
+      "ticker": "STEM",
+      "formType": "10-K",
+      "filedAt": "2024-02-29",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-23-000009": {
+      "ticker": "STEM",
+      "formType": "10-K",
+      "filedAt": "2023-02-17",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-22-000032": {
+      "ticker": "STEM",
+      "formType": "10-K",
+      "filedAt": "2022-02-28",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001104659-21-054613": {
+      "ticker": "STEM",
+      "formType": "10-K/A",
+      "filedAt": "2021-04-26",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001104659-21-031725": {
+      "ticker": "STEM",
+      "formType": "10-K",
+      "filedAt": "2021-03-04",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000066": {
+      "ticker": "STEM",
+      "formType": "10-Q",
+      "filedAt": "2025-10-30",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000027": {
+      "ticker": "STEM",
+      "formType": "10-Q",
+      "filedAt": "2025-08-08",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000012": {
+      "ticker": "STEM",
+      "formType": "10-Q",
+      "filedAt": "2025-04-30",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-24-000176": {
+      "ticker": "STEM",
+      "formType": "10-Q",
+      "filedAt": "2024-10-31",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-24-000149": {
+      "ticker": "STEM",
+      "formType": "10-Q",
+      "filedAt": "2024-08-07",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-24-000091": {
+      "ticker": "STEM",
+      "formType": "10-Q",
+      "filedAt": "2024-05-03",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-23-000129": {
+      "ticker": "STEM",
+      "formType": "10-Q",
+      "filedAt": "2023-11-03",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-23-000114": {
+      "ticker": "STEM",
+      "formType": "10-Q",
+      "filedAt": "2023-08-04",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-23-000078": {
+      "ticker": "STEM",
+      "formType": "10-Q",
+      "filedAt": "2023-05-05",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-22-000185": {
+      "ticker": "STEM",
+      "formType": "10-Q",
+      "filedAt": "2022-11-04",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000085": {
+      "ticker": "STEM",
+      "formType": "8-K",
+      "filedAt": "2025-12-19",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000081": {
+      "ticker": "STEM",
+      "formType": "8-K",
+      "filedAt": "2025-12-16",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000076": {
+      "ticker": "STEM",
+      "formType": "8-K",
+      "filedAt": "2025-12-03",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000064": {
+      "ticker": "STEM",
+      "formType": "8-K",
+      "filedAt": "2025-10-29",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000061": {
+      "ticker": "STEM",
+      "formType": "8-K",
+      "filedAt": "2025-10-16",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000045": {
+      "ticker": "STEM",
+      "formType": "8-K",
+      "filedAt": "2025-09-09",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000025": {
+      "ticker": "STEM",
+      "formType": "8-K",
+      "filedAt": "2025-08-07",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000023": {
+      "ticker": "STEM",
+      "formType": "8-K/A",
+      "filedAt": "2025-07-22",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001193125-25-155177": {
+      "ticker": "STEM",
+      "formType": "8-K/A",
+      "filedAt": "2025-07-03",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001193125-25-154971": {
+      "ticker": "STEM",
+      "formType": "8-K",
+      "filedAt": "2025-07-02",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-26-000005": {
+      "ticker": "STEM",
+      "formType": "4",
+      "filedAt": "2026-01-07",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001986259-25-000007": {
+      "ticker": "STEM",
+      "formType": "4",
+      "filedAt": "2025-11-24",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001900919-25-000007": {
+      "ticker": "STEM",
+      "formType": "4",
+      "filedAt": "2025-11-19",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001986259-25-000005": {
+      "ticker": "STEM",
+      "formType": "4",
+      "filedAt": "2025-11-12",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001948274-25-000005": {
+      "ticker": "STEM",
+      "formType": "4",
+      "filedAt": "2025-11-12",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001900919-25-000005": {
+      "ticker": "STEM",
+      "formType": "4",
+      "filedAt": "2025-11-12",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001672864-25-000007": {
+      "ticker": "STEM",
+      "formType": "4",
+      "filedAt": "2025-11-12",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000057": {
+      "ticker": "STEM",
+      "formType": "4/A",
+      "filedAt": "2025-10-02",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000050": {
+      "ticker": "STEM",
+      "formType": "424B5",
+      "filedAt": "2025-09-09",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001758766-25-000031": {
+      "ticker": "STEM",
+      "formType": "4",
+      "filedAt": "2025-08-19",
+      "processedAt": "2026-02-04T03:41:03.851Z"
+    },
+    "0001104659-25-042552": {
+      "ticker": "PLUG",
+      "formType": "10-K/A",
+      "filedAt": "2025-04-30",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-25-002049": {
+      "ticker": "PLUG",
+      "formType": "10-K",
+      "filedAt": "2025-03-03",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-24-002178": {
+      "ticker": "PLUG",
+      "formType": "10-K",
+      "filedAt": "2024-02-29",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-23-054310": {
+      "ticker": "PLUG",
+      "formType": "10-K/A",
+      "filedAt": "2023-05-01",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-23-002599": {
+      "ticker": "PLUG",
+      "formType": "10-K",
+      "filedAt": "2023-03-01",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-22-003577": {
+      "ticker": "PLUG",
+      "formType": "10-K/A",
+      "filedAt": "2022-03-14",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-22-002620": {
+      "ticker": "PLUG",
+      "formType": "10-K",
+      "filedAt": "2022-03-01",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-21-007147": {
+      "ticker": "PLUG",
+      "formType": "10-K",
+      "filedAt": "2021-05-14",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-20-002267": {
+      "ticker": "PLUG",
+      "formType": "10-K",
+      "filedAt": "2020-03-10",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-19-001929": {
+      "ticker": "PLUG",
+      "formType": "10-K",
+      "filedAt": "2019-03-13",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-25-109279": {
+      "ticker": "PLUG",
+      "formType": "10-Q",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-25-011072": {
+      "ticker": "PLUG",
+      "formType": "10-Q",
+      "filedAt": "2025-08-11",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-25-007412": {
+      "ticker": "PLUG",
+      "formType": "10-Q",
+      "filedAt": "2025-05-12",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-24-015312": {
+      "ticker": "PLUG",
+      "formType": "10-Q",
+      "filedAt": "2024-11-12",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-24-011593": {
+      "ticker": "PLUG",
+      "formType": "10-Q",
+      "filedAt": "2024-08-08",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-24-007592": {
+      "ticker": "PLUG",
+      "formType": "10-Q",
+      "filedAt": "2024-05-09",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-23-018601": {
+      "ticker": "PLUG",
+      "formType": "10-Q",
+      "filedAt": "2023-11-09",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-23-014268": {
+      "ticker": "PLUG",
+      "formType": "10-Q",
+      "filedAt": "2023-08-09",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-23-008801": {
+      "ticker": "PLUG",
+      "formType": "10-Q",
+      "filedAt": "2023-05-09",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001558370-22-016911": {
+      "ticker": "PLUG",
+      "formType": "10-Q",
+      "filedAt": "2022-11-08",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-008732": {
+      "ticker": "PLUG",
+      "formType": "8-K",
+      "filedAt": "2026-01-30",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-001336": {
+      "ticker": "PLUG",
+      "formType": "8-K",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-25-118652": {
+      "ticker": "PLUG",
+      "formType": "8-K",
+      "filedAt": "2025-12-05",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-25-114978": {
+      "ticker": "PLUG",
+      "formType": "8-K",
+      "filedAt": "2025-11-21",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-25-113437": {
+      "ticker": "PLUG",
+      "formType": "8-K",
+      "filedAt": "2025-11-18",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-25-109120": {
+      "ticker": "PLUG",
+      "formType": "8-K",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-25-108809": {
+      "ticker": "PLUG",
+      "formType": "8-K",
+      "filedAt": "2025-11-10",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-25-097766": {
+      "ticker": "PLUG",
+      "formType": "8-K",
+      "filedAt": "2025-10-08",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-25-097346": {
+      "ticker": "PLUG",
+      "formType": "8-K",
+      "filedAt": "2025-10-07",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-25-095048": {
+      "ticker": "PLUG",
+      "formType": "8-K",
+      "filedAt": "2025-09-30",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-003755": {
+      "ticker": "PLUG",
+      "formType": "4",
+      "filedAt": "2026-01-14",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-001517": {
+      "ticker": "PLUG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-001516": {
+      "ticker": "PLUG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-001515": {
+      "ticker": "PLUG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-001513": {
+      "ticker": "PLUG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-001512": {
+      "ticker": "PLUG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-001511": {
+      "ticker": "PLUG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-001510": {
+      "ticker": "PLUG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-26-001509": {
+      "ticker": "PLUG",
+      "formType": "4",
+      "filedAt": "2026-01-06",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001104659-25-122178": {
+      "ticker": "PLUG",
+      "formType": "4",
+      "filedAt": "2025-12-17",
+      "processedAt": "2026-02-04T03:41:04.463Z"
+    },
+    "0001628280-25-008747": {
+      "ticker": "BE",
+      "formType": "10-K",
+      "filedAt": "2025-02-27",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-24-005035": {
+      "ticker": "BE",
+      "formType": "10-K",
+      "filedAt": "2024-02-15",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-23-004301": {
+      "ticker": "BE",
+      "formType": "10-K",
+      "filedAt": "2023-02-21",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001664703-22-000034": {
+      "ticker": "BE",
+      "formType": "10-K",
+      "filedAt": "2022-02-25",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001664703-21-000017": {
+      "ticker": "BE",
+      "formType": "10-K",
+      "filedAt": "2021-02-26",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001664703-20-000013": {
+      "ticker": "BE",
+      "formType": "10-K",
+      "filedAt": "2020-03-31",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001664703-19-000008": {
+      "ticker": "BE",
+      "formType": "10-K",
+      "filedAt": "2019-03-22",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-046844": {
+      "ticker": "BE",
+      "formType": "10-Q",
+      "filedAt": "2025-10-28",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-037074": {
+      "ticker": "BE",
+      "formType": "10-Q",
+      "filedAt": "2025-07-31",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-021160": {
+      "ticker": "BE",
+      "formType": "10-Q",
+      "filedAt": "2025-04-30",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-24-046411": {
+      "ticker": "BE",
+      "formType": "10-Q",
+      "filedAt": "2024-11-07",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-24-036219": {
+      "ticker": "BE",
+      "formType": "10-Q",
+      "filedAt": "2024-08-08",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-24-022309": {
+      "ticker": "BE",
+      "formType": "10-Q",
+      "filedAt": "2024-05-09",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-23-037836": {
+      "ticker": "BE",
+      "formType": "10-Q",
+      "filedAt": "2023-11-08",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-23-027213": {
+      "ticker": "BE",
+      "formType": "10-Q",
+      "filedAt": "2023-08-03",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-23-016818": {
+      "ticker": "BE",
+      "formType": "10-Q",
+      "filedAt": "2023-05-09",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-22-028193": {
+      "ticker": "BE",
+      "formType": "10-Q",
+      "filedAt": "2022-11-03",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-058618": {
+      "ticker": "BE",
+      "formType": "8-K",
+      "filedAt": "2025-12-23",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-049016": {
+      "ticker": "BE",
+      "formType": "8-K",
+      "filedAt": "2025-11-04",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-25-257353": {
+      "ticker": "BE",
+      "formType": "8-K",
+      "filedAt": "2025-10-30",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-047228": {
+      "ticker": "BE",
+      "formType": "8-K",
+      "filedAt": "2025-10-30",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-046745": {
+      "ticker": "BE",
+      "formType": "8-K",
+      "filedAt": "2025-10-28",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001104659-25-074738": {
+      "ticker": "BE",
+      "formType": "8-K",
+      "filedAt": "2025-08-06",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-036998": {
+      "ticker": "BE",
+      "formType": "8-K",
+      "filedAt": "2025-07-31",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-026358": {
+      "ticker": "BE",
+      "formType": "8-K",
+      "filedAt": "2025-05-19",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-025162": {
+      "ticker": "BE",
+      "formType": "8-K",
+      "filedAt": "2025-05-13",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001628280-25-021092": {
+      "ticker": "BE",
+      "formType": "8-K",
+      "filedAt": "2025-04-30",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-26-002766": {
+      "ticker": "BE",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-26-002762": {
+      "ticker": "BE",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-26-002757": {
+      "ticker": "BE",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-26-002753": {
+      "ticker": "BE",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-25-324959": {
+      "ticker": "BE",
+      "formType": "4",
+      "filedAt": "2025-12-18",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-25-324944": {
+      "ticker": "BE",
+      "formType": "4",
+      "filedAt": "2025-12-18",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-25-303900": {
+      "ticker": "BE",
+      "formType": "4",
+      "filedAt": "2025-12-01",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-25-286442": {
+      "ticker": "BE",
+      "formType": "4",
+      "filedAt": "2025-11-18",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-25-286435": {
+      "ticker": "BE",
+      "formType": "4",
+      "filedAt": "2025-11-18",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001193125-25-286432": {
+      "ticker": "BE",
+      "formType": "4",
+      "filedAt": "2025-11-18",
+      "processedAt": "2026-02-04T03:41:04.966Z"
+    },
+    "0001822966-25-000024": {
+      "ticker": "SMR",
+      "formType": "10-K",
+      "filedAt": "2025-03-03",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-24-000039": {
+      "ticker": "SMR",
+      "formType": "10-K",
+      "filedAt": "2024-03-15",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-23-000059": {
+      "ticker": "SMR",
+      "formType": "10-K",
+      "filedAt": "2023-03-16",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001104659-22-032501": {
+      "ticker": "SMR",
+      "formType": "10-K",
+      "filedAt": "2022-03-10",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001104659-21-152116": {
+      "ticker": "SMR",
+      "formType": "10-K/A",
+      "filedAt": "2021-12-21",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001104659-21-063120": {
+      "ticker": "SMR",
+      "formType": "10-K/A",
+      "filedAt": "2021-05-07",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001104659-21-044607": {
+      "ticker": "SMR",
+      "formType": "10-K",
+      "filedAt": "2021-03-31",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000175": {
+      "ticker": "SMR",
+      "formType": "10-Q",
+      "filedAt": "2025-11-06",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000133": {
+      "ticker": "SMR",
+      "formType": "10-Q",
+      "filedAt": "2025-08-07",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000088": {
+      "ticker": "SMR",
+      "formType": "10-Q",
+      "filedAt": "2025-05-12",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-24-000144": {
+      "ticker": "SMR",
+      "formType": "10-Q",
+      "filedAt": "2024-11-08",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-24-000115": {
+      "ticker": "SMR",
+      "formType": "10-Q",
+      "filedAt": "2024-08-09",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-24-000068": {
+      "ticker": "SMR",
+      "formType": "10-Q",
+      "filedAt": "2024-05-09",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-23-000260": {
+      "ticker": "SMR",
+      "formType": "10-Q",
+      "filedAt": "2023-11-09",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-23-000200": {
+      "ticker": "SMR",
+      "formType": "10-Q",
+      "filedAt": "2023-08-09",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-23-000092": {
+      "ticker": "SMR",
+      "formType": "10-Q",
+      "filedAt": "2023-05-09",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-22-000083": {
+      "ticker": "SMR",
+      "formType": "10-Q",
+      "filedAt": "2022-11-14",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-26-000007": {
+      "ticker": "SMR",
+      "formType": "8-K",
+      "filedAt": "2026-01-27",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000186": {
+      "ticker": "SMR",
+      "formType": "8-K",
+      "filedAt": "2025-12-17",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000179": {
+      "ticker": "SMR",
+      "formType": "8-K",
+      "filedAt": "2025-11-17",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001104659-25-108186": {
+      "ticker": "SMR",
+      "formType": "8-K",
+      "filedAt": "2025-11-07",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000173": {
+      "ticker": "SMR",
+      "formType": "8-K",
+      "filedAt": "2025-11-06",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000165": {
+      "ticker": "SMR",
+      "formType": "8-K",
+      "filedAt": "2025-10-20",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000162": {
+      "ticker": "SMR",
+      "formType": "8-K",
+      "filedAt": "2025-10-07",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000146": {
+      "ticker": "SMR",
+      "formType": "8-K",
+      "filedAt": "2025-09-24",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000144": {
+      "ticker": "SMR",
+      "formType": "8-K",
+      "filedAt": "2025-09-02",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001104659-25-077025": {
+      "ticker": "SMR",
+      "formType": "8-K",
+      "filedAt": "2025-08-13",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-26-000012": {
+      "ticker": "SMR",
+      "formType": "4",
+      "filedAt": "2026-01-27",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-26-000004": {
+      "ticker": "SMR",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-26-000002": {
+      "ticker": "SMR",
+      "formType": "4",
+      "filedAt": "2026-01-05",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000184": {
+      "ticker": "SMR",
+      "formType": "4",
+      "filedAt": "2025-12-10",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001124198-25-000098": {
+      "ticker": "SMR",
+      "formType": "4",
+      "filedAt": "2025-11-25",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001124198-25-000083": {
+      "ticker": "SMR",
+      "formType": "4",
+      "filedAt": "2025-11-07",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001104659-25-108181": {
+      "ticker": "SMR",
+      "formType": "424B5",
+      "filedAt": "2025-11-07",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001822966-25-000168": {
+      "ticker": "SMR",
+      "formType": "4",
+      "filedAt": "2025-10-22",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001124198-25-000061": {
+      "ticker": "SMR",
+      "formType": "4",
+      "filedAt": "2025-10-09",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    },
+    "0001124198-25-000058": {
+      "ticker": "SMR",
+      "formType": "4",
+      "filedAt": "2025-10-06",
+      "processedAt": "2026-02-04T03:41:05.512Z"
+    }
+  }
+}

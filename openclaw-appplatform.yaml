@@ -1,0 +1,112 @@
+# OpenClaw App Platform Template (Eclipse Partners)
+# 
+# Security features:
+# - All secrets marked as SECRET type (encrypted at rest)
+# - Unique gateway token per instance
+# - Explicit loopback bind (no network exposure)
+# - Exec security in allowlist mode
+# - Sensitive data redaction in logs
+# - Telegram DM restricted to single user
+#
+# Included skills:
+# - weather (bundled, no API key needed)
+# - clawhub (bundled, no API key needed)
+# - flight-tracker (included in workspace, optional API key)
+# - o365-calendar (included in workspace, requires Azure AD setup)
+#
+# Usage:
+#   1. Copy this file for each partner: cp openclaw-appplatform.yaml openclaw-<name>.yaml
+#   2. Replace all PARTNER_* placeholders
+#   3. Generate gateway token: openssl rand -hex 32
+#   4. Deploy: doctl apps create --spec openclaw-<name>.yaml
+
+name: openclaw-PARTNER_NAME
+region: nyc
+
+services:
+  - name: openclaw
+    image:
+      registry_type: DOCKER_HUB
+      registry: openclaw
+      repository: openclaw
+      tag: latest
+    instance_count: 1
+    instance_size_slug: basic-xxs  # $5/mo - upgrade to basic-xs ($12) if needed
+    
+    envs:
+      # ═══════════════════════════════════════════════════
+      # REQUIRED: Partner Credentials
+      # ═══════════════════════════════════════════════════
+      - key: ANTHROPIC_API_KEY
+        value: "PARTNER_ANTHROPIC_KEY"
+        type: SECRET
+      - key: TELEGRAM_BOT_TOKEN
+        value: "PARTNER_BOT_TOKEN"
+        type: SECRET
+      - key: TELEGRAM_ALLOWED_USERS
+        value: "PARTNER_TELEGRAM_ID"
+      
+      # ═══════════════════════════════════════════════════
+      # SECURITY: Gateway Protection
+      # ═══════════════════════════════════════════════════
+      # Unique token per instance - generate with: openssl rand -hex 32
+      - key: OPENCLAW_GATEWAY_TOKEN
+        value: "PARTNER_GATEWAY_TOKEN"
+        type: SECRET
+      # Bind to loopback only (container-internal)
+      - key: OPENCLAW_GATEWAY_BIND
+        value: "loopback"
+      
+      # ═══════════════════════════════════════════════════
+      # SECURITY: Exec Restrictions
+      # ═══════════════════════════════════════════════════
+      # allowlist = only pre-approved commands run without asking
+      - key: OPENCLAW_EXEC_SECURITY
+        value: "allowlist"
+      
+      # ═══════════════════════════════════════════════════
+      # SECURITY: Logging
+      # ═══════════════════════════════════════════════════
+      - key: OPENCLAW_LOG_REDACT_SENSITIVE
+        value: "tools"
+      
+      # ═══════════════════════════════════════════════════
+      # AGENT: Model & Behavior
+      # ═══════════════════════════════════════════════════
+      - key: OPENCLAW_MODEL
+        value: "anthropic/claude-sonnet-4"
+      - key: TZ
+        value: "PARTNER_TIMEZONE"
+      - key: OPENCLAW_WORKSPACE
+        value: "/mnt/workspace"
+      
+      # ═══════════════════════════════════════════════════
+      # SKILL: O365 Calendar (Optional)
+      # ═══════════════════════════════════════════════════
+      # Requires Azure AD app registration in partner's tenant
+      # See skills/o365-calendar/SKILL.md for setup instructions
+      # Leave blank if not using O365 calendar
+      - key: O365_CLIENT_ID
+        value: "PARTNER_O365_CLIENT_ID"
+      - key: O365_TENANT_ID
+        value: "PARTNER_O365_TENANT_ID"
+      
+      # ═══════════════════════════════════════════════════
+      # SKILL: Flight Tracker (Optional)
+      # ═══════════════════════════════════════════════════
+      # AviationStack API key for flight schedules
+      # Free tier: 100 requests/month at aviationstack.com
+      # Leave blank if not needed (live tracking still works)
+      - key: AVIATIONSTACK_API_KEY
+        value: ""
+
+    # Persistent storage for workspace files
+    volumes:
+      - name: workspace
+        path: /mnt/workspace
+        size_gib: 1
+
+# Volume definition
+volumes:
+  - name: workspace
+    size_gib: 1
