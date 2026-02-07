@@ -36,7 +36,6 @@ services:
       registry: openclaw
       repository: openclaw
       tag: latest
-    restart: unless-stopped
     instance_count: 1
     instance_size_slug: basic-xs
     # Auto-initialize workspace on first boot
