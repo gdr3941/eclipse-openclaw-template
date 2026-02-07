@@ -39,9 +39,6 @@ services:
     restart: unless-stopped
     instance_count: 1
     instance_size_slug: basic-xs
-    ports:
-      - "127.0.0.1:18789:18789"
-    user: "1000:1000"
     # Auto-initialize workspace on first boot
     run_command: |
       sh -c '
