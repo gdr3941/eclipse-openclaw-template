@@ -38,15 +38,14 @@ services:
       tag: latest
     instance_count: 1
     instance_size_slug: basic-xs
-    # Auto-initialize workspace on first boot
+    # Auto-initialize workspace on boot (ephemeral - cloned fresh each deploy)
     run_command: |
       sh -c '
-        if [ ! -f /mnt/workspace/SOUL.md ]; then
-          echo "Initializing workspace from template..."
-          cd /mnt/workspace
-          wget -qO- https://github.com/gdr3941/eclipse-openclaw-template/archive/refs/heads/main.tar.gz | tar xz --strip-components=1
-          echo "Workspace initialized."
-        fi
+        mkdir -p /app/workspace
+        echo "Initializing workspace from template..."
+        cd /app/workspace
+        wget -qO- https://github.com/gdr3941/eclipse-openclaw-template/archive/refs/heads/main.tar.gz | tar xz --strip-components=1
+        echo "Workspace initialized."
         exec openclaw gateway start --foreground
       '
     
@@ -88,7 +87,7 @@ services:
       - key: TZ
         value: "PARTNER_TIMEZONE"
       - key: OPENCLAW_WORKSPACE
-        value: "/mnt/workspace"
+        value: "/app/workspace"
       
       # ═══════════════════════════════════════════════════
       # O365 Calendar Integration
@@ -100,12 +99,5 @@ services:
       - key: O365_TENANT_ID
         value: "PARTNER_O365_TENANT_ID"
 
-    # Persistent storage for workspace files
-    mounts:
-      - path: /mnt/workspace
-        source_volume_name: workspace
-
-# Volume definition (top-level)
-volumes:
-  - name: workspace
-    size_gib: 1
+# Note: DO App Platform doesn't support persistent volumes
+# Workspace is ephemeral - cloned from GitHub on each deploy
