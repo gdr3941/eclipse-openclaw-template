@@ -101,12 +101,11 @@ services:
         value: "PARTNER_O365_TENANT_ID"
 
     # Persistent storage for workspace files
-    volumes:
-      - name: workspace
-        path: /mnt/workspace
-        size_gib: 1
+    mounts:
+      - path: /mnt/workspace
+        source_volume_name: workspace
 
-# Volume definition
+# Volume definition (top-level)
 volumes:
   - name: workspace
     size_gib: 1
