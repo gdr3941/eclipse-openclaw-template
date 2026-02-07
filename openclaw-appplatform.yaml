@@ -23,9 +23,11 @@
 #   2. Replace all PARTNER_* placeholders
 #   3. Generate gateway token: openssl rand -hex 32
 #   4. Deploy: doctl apps create --spec openclaw-<name>.yaml
+#
+# OR use the deploy script
 
 name: openclaw-PARTNER_NAME
-region: nyc
+region: sfo
 
 services:
   - name: openclaw
@@ -34,9 +36,16 @@ services:
       registry: openclaw
       repository: openclaw
       tag: latest
+    restart: unless-stopped
     instance_count: 1
-    instance_size_slug: basic-xxs  # $5/mo - upgrade to basic-xs ($12) if needed
-    
+    instance_size_slug: basic-xs
+    cap_drop:
+      - ALL
+    cap_add:
+      - NET_BIND_SERVICE
+    ports:
+      - "127.0.0.1:18789:18789"
+    user: "1000:1000"
     # Auto-initialize workspace on first boot
     run_command: |
       sh -c '
