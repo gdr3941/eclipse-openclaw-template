@@ -35,6 +35,7 @@ Use my local script for partner-deploy.sh
 2. Partner's Telegram bot token (from @BotFather)
 3. Partner's Anthropic API key
 4. Partner's Telegram user ID (from @userinfobot)
+5. Brave Search API key (from https://brave.com/search/api - free tier available)
 
 ### Quick Deploy
 
